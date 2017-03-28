@@ -1,4 +1,4 @@
-﻿Identification	特定	識別としている例もある
+Identification	特定	識別としている例もある
 snippet	コード断片
 legal counsel	法務担当
 issue	課題
