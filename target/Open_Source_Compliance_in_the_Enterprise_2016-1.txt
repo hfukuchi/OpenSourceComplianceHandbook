@@ -404,7 +404,7 @@ Under this development model, software components can consist of source code ori
 
 
 
-Figure 2. Multi-Source development model
+図 2 マルチソース開発モデル
 
 As the number of open source software components grew in what were once straightforward proprietary software stacks, the business environment diverged from familiar territory and corporate comfort zones.
 Figure 3 (next page) illustrates the adoption of open source software throughout the various levels of a given platform or software stack.
@@ -1402,7 +1402,7 @@ As part of this step of compliance due diligence, there are two important review
 
 
 
-アーキテクチャ レビュー
+アーキテクチャー レビュー
 
 The goal of the architecture review is to analyze any interactions between the open source, third-party, and proprietary code. The result of the architecture review is an analysis of the licensing obligations that may extend from the open source components to the proprietary components (and vice versa). The internal package owner, the OSRB engineering representative, and the open source expert usually perform the architecture review. If they identify a dependency resulting in a licensing conflict, the OSRB Chair will issue a ticket to Engineering to resolve the dependency problem by reworking the source code.
 
