@@ -772,8 +772,8 @@
       <tuv lang="EN-US">
         <seg>Checklists: A consistent, foolproof way to remember what needs to be done at every point in the development and compliance processes</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T091617Z" creationid="hfukuchi" creationdate="20170315T091617Z">
-        <seg>チェックリスト：開発やコンプライアンスのプロセスの全てのポイントで必要なことは何かを覚えておくための、一貫性のある、極めて簡単な方法。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T074638Z" creationid="hfukuchi" creationdate="20170315T091617Z">
+        <seg>チェックリスト：開発やコンプライアンスのプロセスの全てのポイントで必要なことは何かを覚えておくための、一貫性のある、極めて簡単な方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -2283,8 +2283,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>However, legal counsel plays an indispensable role in supporting the open source compliance programs and core teams that most organizations create to ensure proper compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T084356Z" creationid="hfukuchi" creationdate="20170315T084356Z">
-        <seg>しかしながら、法務担当は、オープン ソース コンプライアンス プログラムや適切なコンプライアンスを確実にするもっとも重要なコアチームをサポートするかけがえのない役割を果たします。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T054945Z" creationid="hfukuchi" creationdate="20170315T084356Z">
+        <seg>しかしながら、法務担当は、オープン ソース コンプライアンス プログラムや適切なコンプライアンスを確実にするもっとも重要なコアチームをサポートする不可欠な役割を果たします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,8 +3432,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>License Playbooks: Easy-to-read, digest-form summaries of open source licenses intended for software developers .</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T090049Z" creationid="hfukuchi" creationdate="20170315T090049Z">
-        <seg>ライセンスプレーブック：ソフトウェア開発者を意図して書かれた、オープン ソース ライセンスについての簡単に読める要約形式のまとめ</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T063035Z" creationid="hfukuchi" creationdate="20170315T090049Z">
+        <seg>ライセンス プレーブック：ソフトウェア開発者を意図して書かれた、オープン ソース ライセンスについての簡単に読める要約形式のまとめ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3448,8 +3448,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>License classification: An easy way to understand the different licenses, and the course of action needed when using source code provided under these licenses</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T091006Z" creationid="hfukuchi" creationdate="20170315T091006Z">
-        <seg>ライセンス クラス：異なるライセンスと、これらのライセンスで許諾されたソース コードを利用する際に必要な行動を理解する簡単な方法。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T063108Z" creationid="hfukuchi" creationdate="20170315T091006Z">
+        <seg>ライセンス クラス：異なるライセンスと、これらのライセンスで許諾されたソース コードを利用する際に必要な行動を理解する簡単な方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -3991,8 +3991,8 @@ or stored on equivalent media), your work is not complete.</seg>
       <tuv lang="EN-US">
         <seg>Open source compliance is often more of an operational and logistical challenge than a legal challenge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T082807Z" creationid="hfukuchi" creationdate="20170315T082807Z">
-        <seg>オープン ソース コンプライアンスは、しばしば、法務的な問題よりも運用や物流的な問題です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T054851Z" creationid="hfukuchi" creationdate="20170315T082807Z">
+        <seg>オープン ソース コンプライアンスは、しばしば、法務的な問題というよりも運用や物流的な問題です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4243,8 +4243,8 @@ or stored on equivalent media), your work is not complete.</seg>
       <tuv lang="EN-US">
         <seg>Practical advice from Legal Counsel to software developers may include:</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T085348Z" creationid="hfukuchi" creationdate="20170315T085348Z">
-        <seg>法務担当からソフトウェア開発者に向けた実際的なアドバイスは、以下含むかもしれません</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T063020Z" creationid="hfukuchi" creationdate="20170315T085348Z">
+        <seg>法務担当からソフトウェア開発者に向けた実際的なアドバイスは、以下を含むかもしれません</seg>
       </tuv>
     </tu>
     <tu>
@@ -4876,8 +4876,8 @@ party shrink-wrap</seg>
         <seg>Software interaction methods: A guide to understanding how software components available under different licenses interact, and if the method of interaction is allowed per company compliance policies
 .</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T091402Z" creationid="hfukuchi" creationdate="20170315T091402Z">
-        <seg>ソフトウェア相互作用法：異なるライセンスで利用可能なソフトウェア コンポーネントがどのように相互作用するか、相互作用の方法は企業のコンプライアンス ポリシーで許可されているかを理解するガイド。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T074631Z" creationid="hfukuchi" creationdate="20170315T091402Z">
+        <seg>ソフトウェア相互作用法：異なるライセンスで利用可能なソフトウェア コンポーネントがどのように相互作用するか、相互作用の方法は企業のコンプライアンス ポリシーで許可されているかを理解するガイド</seg>
       </tuv>
     </tu>
     <tu>
@@ -5243,8 +5243,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>Such practical advice will enable software developers to make day-to-day decisions related to open source licenses without having to go back to Legal Counsel for every single question.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T085219Z" creationid="hfukuchi" creationdate="20170315T085219Z">
-        <seg>そういう実際的なアドバイスは、ソフトウェア開発者が、法務担当に頼らなくても、細かな問題に対する毎日の判断を可能にします。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T063001Z" creationid="hfukuchi" creationdate="20170315T085219Z">
+        <seg>そういう実際的なアドバイスは、ソフトウェア開発者が、法務担当に頼らなくてもできる、細かな問題に対する毎日の判断を可能にします。</seg>
       </tuv>
     </tu>
     <tu>
