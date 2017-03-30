@@ -362,8 +362,8 @@
       <tuv lang="EN-US">
         <seg>An example of licensing incompatibility can be found in attempting to combine code distributed under the Apache version 2 license with software under the GNU GPL version 2.0 (due to patent termination and indemnification provisions not present in the older GPL license ).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T035400Z" creationid="hfukuchi" creationdate="20170321T035400Z">
-        <seg>ライセンス非互換の例は、Apache version 2ライセンスで頒布されたコードをGNU GPL version 2(古いGPLライセンスには存在していなかった特許終了と免責に関する事項によって)のソフトウェアと結合しようとするときに見られます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071325Z" creationid="hfukuchi" creationdate="20170321T035400Z">
+        <seg>ライセンス非互換の例は、Apache version 2ライセンスで頒布されたコードをGNU GPL version 2の（古いGPLライセンスには存在していなかった特許終了と免責に関する事項によって）ソフトウェアと結合しようとするときに見られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,8 +2742,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In the following sections, we examine these five pieces of advice, provide examples, and discuss how they help software developers working with open source.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T091820Z" creationid="hfukuchi" creationdate="20170315T091820Z">
-        <seg>以下の節では、これらの5つのアドバイスを例示し、開発者がオープン ソースに関わる時にどのように助けになるかを議論します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071017Z" creationid="hfukuchi" creationdate="20170315T091820Z">
+        <seg>以下の節では、これらの5つのアドバイスを確認し、例を示し、これらによって開発者がオープン ソースに関わる時にどのように助けになるかを議論します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3464,16 +3464,16 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>License compatibility is an area where development teams need detailed guidance from Legal Counsel and should never be left to draw their own conclusions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T040540Z" creationid="hfukuchi" creationdate="20170321T040540Z">
-        <seg>ライセンス互換性は、開発チームが法務担当からの詳細なガイドラインを必要とし、自分たちだけで結論を出すべきではない分野です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071458Z" creationid="hfukuchi" creationdate="20170321T040540Z">
+        <seg>ライセンス互換性は、開発チームが法務担当からの詳細なガイドラインを必要とするもので、自分たちだけで結論を出すべきではない分野です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>License compatibility is the determination of whether a software component and its license are compatible with one or more other components and their licenses (i.e., that their licensing terms do not conflict).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T025117Z" creationid="hfukuchi" creationdate="20170321T025117Z">
-        <seg>ライセンス互換性とは、ソフトウェア コンポーネントとそのライセンスが一つ以上の他コンポーネントとライセンスと互換であるかどうか（ライセンスが矛盾を起こさないか）を決めることです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071156Z" creationid="hfukuchi" creationdate="20170321T025117Z">
+        <seg>ライセンス互換性とは、ソフトウェア コンポーネントとそのライセンスが一つ以上の他のコンポーネントとそのライセンスと互換であるかどうか（ライセンスが矛盾を起こさないか）を決めることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,8 +3513,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>License playbooks are summaries of commonly used open source licenses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170316T085915Z" creationid="hfukuchi" creationdate="20170316T085915Z">
-        <seg>ライセンス プレーブックは、共有して使われるオープン ソースについての要約です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071039Z" creationid="hfukuchi" creationdate="20170316T085915Z">
+        <seg>ライセンス プレーブックは、広く使われているオープン ソースについての要約です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4227,8 +4227,8 @@ or stored on equivalent media), your work is not complete.</seg>
       <tuv lang="EN-US">
         <seg>Please note that this playbook is provided for illustration purposes only and its content should not be considered definitive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170316T092724Z" creationid="hfukuchi" creationdate="20170316T092724Z">
-        <seg>このプレーブックは、説明目的で書かれたものであり、その中身は確実と考えないように、注意して下さい</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071114Z" creationid="hfukuchi" creationdate="20170316T092724Z">
+        <seg>このプレーブックは、説明目的で書かれたものであり、その中身は確実と考えないように注意して下さい</seg>
       </tuv>
     </tu>
     <tu>
@@ -6807,8 +6807,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>When development teams need to combine code under different open source licenses, they can refer to this matrix to determine if joining the software components in question creates a licensing conflict.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T041152Z" creationid="hfukuchi" creationdate="20170321T041152Z">
-        <seg>開発チームが、異なるライセンスで許諾されたコードを結合する必要がある時には、問題となっている結合したソフトウェア コンポーネントがライセンス的な矛盾を発生させるかを確認するためにこのマトリックスを参照できます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071851Z" creationid="hfukuchi" creationdate="20170321T041152Z">
+        <seg>開発チームは、異なるライセンスで許諾されたコードを結合する必要がある時には、問題となっている結合したソフトウェア コンポーネントがライセンス的な矛盾を発生させるかを確認するために、このマトリックスを参照できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6896,8 +6896,8 @@ based, magazines, newspapers, flyers, etc.) must display the acknowledgement.</s
       <tuv lang="EN-US">
         <seg>You can set up a different classification model with different actions depending on your organization’s policies and guidelines.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T053825Z" creationid="hfukuchi" creationdate="20170321T053825Z">
-        <seg>自分の組織ポリシーやガイドラインに従って、異なる行動を持つ異なる分類を作成することが可能です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T072149Z" creationid="hfukuchi" creationdate="20170321T053825Z">
+        <seg>自分の組織ポリシーやガイドラインに従って、異なる行動を割り当てるような異なる分類モデルを作成することも可能です。</seg>
       </tuv>
     </tu>
     <tu>
