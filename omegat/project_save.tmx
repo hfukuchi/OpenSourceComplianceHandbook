@@ -2195,8 +2195,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>Having Legal Counsel provide this education in a very practical way is extremely helpful, as it allows software developers to have access to documented practical advice that will help answer most of their daily legal-related questions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T071445Z" creationid="hfukuchi" creationdate="20170321T071445Z">
-        <seg>法務担当が実際的な方法で教育を実施するようにすることは、とても役に立ちます。ソフトウェア開発者が、法務に関連する日々の質問に答えてくれる文書化された実際的なアドバイスにアクセスできるからです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170331T074143Z" creationid="hfukuchi" creationdate="20170321T071445Z">
+        <seg>法務担当が実際的な方法で教育を実施するようにすることは、とても役に立ちます。ソフトウェア開発者が、法務に関連する日々の質問に答えてくれる文書化された実際的なアドバイスに、アクセスできるからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2235,8 +2235,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>He is responsible for overseeing Samsung’s Open source strategy and execution, internal and external collaborative R&amp;D projects, participation in key open source development projects, and representing Samsung in various open source foundations and open standards organizations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T054737Z" creationid="hfukuchi" creationdate="20170321T054719Z">
-        <seg>彼は、Samsungのオープン ソース戦略立案と実行、社内外との共同R&amp;Dプロジェクト、キー オープン ソース開発プロジェクトへの参画に責任を持っており、様々なオープン ソース財団とオープン標準組織でSamsungの代表を務めています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170331T074842Z" creationid="hfukuchi" creationdate="20170321T054719Z">
+        <seg>彼は、Samsungのオープン ソース戦略立案と実行、社内外との共同R&amp;Dプロジェクト、重要オープン ソース開発プロジェクトへの参画に責任を持っており、様々なオープン ソース財団とオープン標準組織でSamsungの代表を務めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2331,8 +2331,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>Ibrahim Haddad (Ph.D.) is Vice President of R&amp;D, and the Head of the Open Source Group at Samsung Research America, a wholly owned R&amp;D subsidiary of Samsung Electronics Co. Ltd., South Korea.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170322T090349Z" creationid="hfukuchi" creationdate="20170316T093901Z">
-        <seg>イブラヒム ハダッド (Ph.D.) は、Samsung Electronics Co. Ltd.(韓国)のR&amp;Dに関する100%子会社であるSamsung Research AmericaのR&amp;D担当副社長で、オープン ソース グループ長です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170331T074820Z" creationid="hfukuchi" creationdate="20170316T093901Z">
+        <seg>イブラヒム ハダッド（Ph.D.） は、Samsung Electronics Co. Ltd.（韓国）のR&amp;Dに関する100%子会社であるSamsung Research AmericaのR&amp;D担当副社長で、オープン ソース グループ長です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,6 +5386,14 @@ distribution checklist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Linux Foundation promotes, protects and standardizes Linux by providing unified resources and services needed for open source to successfully compete with closed platforms.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170331T075350Z" creationid="hfukuchi" creationdate="20170331T075350Z">
+        <seg>The Linux Foundation は、Linux の普及促進、保護、ならびに標準化に取り組み、Linux/OSS がクローズドなプラットフォームに対抗するのに必要とされる統合されたリソースとサービスを提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OSEC must approve the usage of any open source package where licensing terms require granting a patent license or patent non-assertion.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170327T090201Z" creationid="hfukuchi" creationdate="20170124T034600Z">
@@ -6499,6 +6507,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170321T051625Z" creationid="hfukuchi" creationdate="20170321T051625Z">
         <seg>これは、通常、特許に関する条項を含むライセンスに適用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn more about The Linux Foundation, please visit us at linuxfoundation.org.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170331T075433Z" creationid="hfukuchi" creationdate="20170331T075433Z">
+        <seg>The Linux Foundation およびその他の活動については、http://www.linuxfoundation.org/ を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
