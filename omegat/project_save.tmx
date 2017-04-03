@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>(both in Computer Science) at the Lebanese American University.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170322T093303Z" creationid="hfukuchi" creationdate="20170322T093303Z">
-        <seg>（ともに計算機科学）Lebanese American Universityで取得しています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T073917Z" creationid="hfukuchi" creationdate="20170322T093303Z">
+        <seg>（ともに計算機科学）をLebanese American Universityで取得しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>A new proprietary software component entering the build system where engineering may or may not have borrowed open source code and used it in a proprietary software component</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170323T091349Z" creationid="hfukuchi" creationdate="20170112T091924Z">
-        <seg>技術者がオープン ソース コードを模倣しているかもしれないし、プロプライエタリ ソフトウェアにオープン ソース コード使っているかもしれないようなビルドシステムに、入る新しいプロプライエタリ ソフトウェア コンポーネント。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T075410Z" creationid="hfukuchi" creationdate="20170112T091924Z">
+        <seg>技術者がオープン ソース コードを模倣しているかもしれないし、プロプライエタリ ソフトウェアにオープン ソース コード使っているかもしれないようなビルドシステムに、入ってくる新しいプロプライエタリ ソフトウェア コンポーネント。</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,8 +418,8 @@
       <tuv lang="EN-US">
         <seg>Approval for one product is not approval for another deployment, even if the open source component is the same.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170112T075153Z" creationid="hfukuchi" creationdate="20170112T054751Z">
-        <seg>一つの製品に対する承認は、たとえ同じオープン ソース コンポーネントを使用していても、別の製品への承認とはなりません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074428Z" creationid="hfukuchi" creationdate="20170112T054751Z">
+        <seg>一つの製品に対する承認は、たとえ同じオープン ソース コンポーネントを利用していても、別の製品への承認とはなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -731,8 +731,8 @@
       <tuv lang="EN-US">
         <seg>Changes in previously approved software components: In many cases, engineers start evaluating and testing with a certain version of an OSS component, and later adopt that component when a new version is available.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170112T090618Z" creationid="hfukuchi" creationdate="20170112T090618Z">
-        <seg>前に承認されたソフトウェア コンポーネントに対する変更：多くの場合、技術スタッフは特定のバージョンのOSS コンポーネントを評価やテストしており、新しいバージョンが利用可能になった時にそのコンポーネントを採用します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T075036Z" creationid="hfukuchi" creationdate="20170112T090618Z">
+        <seg>前に承認されたソフトウェア コンポーネントに対する変更：多くの場合、技術スタッフは特定のバージョンのOSS コンポーネントを評価やテストして、新しいバージョンが利用可能になった時にそのコンポーネントを採用します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1365,8 +1365,8 @@
       <tuv lang="EN-US">
         <seg>During legal review, the legal counsel will need to decide on the incoming and outgoing license(s):</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T083245Z" creationid="hfukuchi" creationdate="20170117T052758Z">
-        <seg>法務レビューの間、法務担当は出るライセンスと入るライセンスを決める必要があります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T084757Z" creationid="hfukuchi" creationdate="20170117T052758Z">
+        <seg>法務レビュー期間に、法務担当は出るライセンスと入るライセンスを決める必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1673,8 +1673,8 @@
       <tuv lang="EN-US">
         <seg>Figure 15 (page 81) illustrates some of the factors that can trigger a source code scan, which include:</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170323T090627Z" creationid="hfukuchi" creationdate="20170112T082629Z">
-        <seg>図15（82ページ）は、ソース コード スキャンを開始する起因を示しています。それらは、</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074755Z" creationid="hfukuchi" creationdate="20170112T082629Z">
+        <seg>図15（82ページ）は、ソース コード スキャンを開始する要因を示しています。それらは、</seg>
       </tuv>
     </tu>
     <tu>
@@ -2107,8 +2107,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>Furthermore, it ensures that the company has a plan to fulfill the license obligations resulting from using the various software components prior to customer receipt.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170112T075604Z" creationid="hfukuchi" creationdate="20170112T075604Z">
-        <seg>さらに、それは、顧客が製品を受け取る前に、様々なソフトウェア コンポーネントの使用に起因するライセンス義務を実行するための計画を企業が持つことを確実にします。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074625Z" creationid="hfukuchi" creationdate="20170112T075604Z">
+        <seg>さらに、それは、顧客が製品を受け取る前に、様々なソフトウェア コンポーネント利用に起因するライセンス義務を実行する計画を、企業が持つことを確実にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2227,8 +2227,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>He is known for his writing and speaking on topics ranging from open source legal compliance to using open source as a business strategy and an R&amp;D tool to drive collaboration and innovation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170323T045358Z" creationid="hfukuchi" creationdate="20170322T094016Z">
-        <seg>彼は、オープン ソース法務コンプライアンスから、ビジネス戦略や共同開発やイノベーションを推進するR&amp;Dツールとしてオープン ソースの利用に至る話題についての著書と講演で知られています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074037Z" creationid="hfukuchi" creationdate="20170322T094016Z">
+        <seg>彼は、オープン ソース法務コンプライアンスから、ビジネス戦略や共同開発やイノベーションを推進するR&amp;Dツールとしてのオープン ソース利用に至る話題についての著書と講演で知られています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2405,8 +2405,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>If a licensing issue is found, for example mixed source code with incompatible licenses, the legal counsel will flag these issues and reassign the compliance ticket to Engineering to rework the code.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170113T071517Z" creationid="hfukuchi" creationdate="20170113T064632Z">
-        <seg>例えば非互換のライセンスをもつソース コードを組み合わせているなど、ライセンスに課題が発見されたときには、法務担当はこれらの課題にフラグをつけて、コードの再作業のためにコンプライアンス チケットを技術担当へ再割り当てします。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T075611Z" creationid="hfukuchi" creationdate="20170113T064632Z">
+        <seg>例えば非互換のライセンスをもつソース コードを組み合わせるなど、ライセンスに課題が発見されたときには、法務担当はこれらの課題にフラグをつけて、コードの再作業のためにコンプライアンス チケットを技術担当へ再割り当てします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2469,8 +2469,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>If the compliance officer discovers any issues, such as a proprietary software component linking to a GPL licensed component, the compliance officer forwards the compliance ticket to Engineering for resolution.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T063333Z" creationid="hfukuchi" creationdate="20170116T073542Z">
-        <seg>コンプライアンス オフィサーは、例えば、プロプライエタリ ソフトウェア コンポーネントとGPLで許諾されたコンポーネントがリンクされているような課題を見つけたら、解決のためにコンプライアンス チケットを技術担当へ送ります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T075929Z" creationid="hfukuchi" creationdate="20170116T073542Z">
+        <seg>コンプライアンス オフィサーは、例えば、プロプライエタリ ソフトウェア コンポーネントとGPLで許諾されたコンポーネントがリンクされるような課題を見つけたら、解決のためにコンプライアンス チケットを技術担当へ送ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2565,8 +2565,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>If they identify a dependency resulting in a licensing conflict, the Compliance Officer will issue a ticket to Engineering to resolve the dependency problem by reworking the source code.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T073535Z" creationid="hfukuchi" creationdate="20170117T054443Z">
-        <seg>もしライセンス矛盾になるような依存関係を特定した場合、コンプライアンス オフィサーは、ソース コードの再作業によって依存関係問を題解決するためにチケットを技術担当に発行する。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T084856Z" creationid="hfukuchi" creationdate="20170117T054443Z">
+        <seg>もしライセンス矛盾になるような依存関係を発見した場合、コンプライアンス オフィサーは、ソース コードの再作業によって依存関係問を題解決するためにチケットを技術担当に発行する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2629,8 +2629,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In most cases, if a software component reaches the final review, it will be approved unless a condition has presented itself (such as the software component no longer being in use).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T063906Z" creationid="hfukuchi" creationdate="20170116T083004Z">
-        <seg>ほとんどのケースでは、ソフトウェア コンポーネントが最終レビューの段階まで到達したら、（そのソフトウェア コンポーネントがもう使われていないなどの）何かの条件が現れない限り、そのコンポーネントは承認されるでしょう。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T080211Z" creationid="hfukuchi" creationdate="20170116T083004Z">
+        <seg>ほとんどのケースでは、ソフトウェア コンポーネントが最終レビューの段階まで到達したら、（そのソフトウェア コンポーネントがもう使われていないなどの）何かの条件が現れない限り、そのコンポーネントは承認されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,8 +2694,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In some cases, when the incoming license is a permissive license that allows relicensing (such as BSD), companies will relicense that software under their own proprietary license.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T083047Z" creationid="hfukuchi" creationdate="20170117T051002Z">
-        <seg>あるケースでは、入るライセンス（BSDのように）が再許諾を許すような許容型ライセンスである場合には、企業はそのソフトウェアをプロプライエタリ ライセンスで再許諾します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T084707Z" creationid="hfukuchi" creationdate="20170117T051002Z">
+        <seg>あるケースでは、入るライセンスが（BSDのように）再許諾を許すような許容型ライセンスである場合には、企業はそのソフトウェアをプロプライエタリ ライセンスで再許諾します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,8 +2846,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In this phase, subtasks are closed, and the output is the resolution of all issues.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T065435Z" creationid="hfukuchi" creationdate="20170117T012419Z">
-        <seg>このフェーズでは、サブタスクはクローズされた上で、全ての課題の解決がアウトプットとなります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T082057Z" creationid="hfukuchi" creationdate="20170117T012419Z">
+        <seg>このフェーズでは、サブタスクはクローズされた上で、全課題の解決がアウトプットとなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4195,8 +4195,8 @@ or stored on equivalent media), your work is not complete.</seg>
       <tuv lang="EN-US">
         <seg>Periodic full-platform scans should also take place every few weeks to ensure that no open source software component has been included into the platform without a corresponding OSRB form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T064503Z" creationid="hfukuchi" creationdate="20170116T091213Z">
-        <seg>定期的な全プラットフォーム スキャンは、対応するOSRBフォーム無しにプラットフォームに入ってくるソフトウェア コンポーネントが無いことを確実にするために、数週間に1回程度実施されるべきです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T080731Z" creationid="hfukuchi" creationdate="20170116T091213Z">
+        <seg>定期的な全プラットフォーム スキャンは、対応するOSRBフォーム無しにプラットフォームへソフトウェア コンポーネントが入らないことを確実にするために、数週間に1回程度実施されるべきです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4884,8 +4884,8 @@ party shrink-wrap</seg>
       <tuv lang="EN-US">
         <seg>Software received from third-party vendors must be audited to identify any open source included, which will ensure license obligations can be fulfilled before product ships.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170323T090005Z" creationid="hfukuchi" creationdate="20170112T024143Z">
-        <seg>サード パーティ企業から受け取るソフトウェアは、含まれているオープン ソースを全て特定しなければなりません。このことは、製品出荷前までのライセンス義務実施を確実にしてくれます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074302Z" creationid="hfukuchi" creationdate="20170112T024143Z">
+        <seg>サード パーティ企業から受け取るソフトウェアは、含まれているオープン ソースを全て特定しなければなりません。このことは、製品出荷前までにライセンス義務を実施することを確実にしてくれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,8 +5055,8 @@ or legal counsel.</seg>
 or license, which may or may not have incorporated open source in it
 .</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170112T091418Z" creationid="hfukuchi" creationdate="20170112T091418Z">
-        <seg>作者やライセンスが不明であり、オープン ソースが含まれているかもしれないし含まれていないかもしれない、Webからダウンロードしたソース コード。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T075206Z" creationid="hfukuchi" creationdate="20170112T091418Z">
+        <seg>作者やライセンスが不明であり、オープン ソースが含まれているかもしれないWebからダウンロードしたソース コード。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5145,8 +5145,8 @@ or license, which may or may not have incorporated open source in it
         <seg>Source code received from a third-party software provider who may or may not have disclosed open source
 .</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170112T092005Z" creationid="hfukuchi" creationdate="20170112T090954Z">
-        <seg>オープン ソースを開示しているかわからないサード パーティ ソフトウェア プロバイダーから受け取ったソース コード。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T075120Z" creationid="hfukuchi" creationdate="20170112T090954Z">
+        <seg>オープン ソースを開示しているか不明なサード パーティ ソフトウェア プロバイダーから受け取ったソース コード。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5476,16 +5476,16 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The compliance officer may order a re-scan of the source code and generate a new scan report confirming that earlier issues have now been resolved.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170117T022100Z" creationid="hfukuchi" creationdate="20170117T022100Z">
-        <seg>コンプライアンス オフィサーは、ソース コードの再スキャンを依頼してスキャン報告書を作成し、前に上がっていた課題が解決済みになっていることを確認するかもしれません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T082119Z" creationid="hfukuchi" creationdate="20170117T022100Z">
+        <seg>コンプライアンス オフィサーは、ソース コードの再スキャンを依頼してスキャン報告書を作成し、前に上がった課題が解決済みになっていることを確認するかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The compliance usage process includes scanning the source code of the software package in question, identifying and resolving any discovered issues, performing legal and architectural reviews, and making a decision regarding the usage approval for a given software package.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T092317Z" creationid="hfukuchi" creationdate="20170112T080517Z">
-        <seg>コンプライアンス利用プロセスは、問題となっているソフトウェア パッケージのソースコードのスキャン、発見された課題の特定と解決、法務レビューおよびアーキテクチャー レビューの実施、そのソフトウェア パッケージに対する使用許可に関する判断を含みます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074701Z" creationid="hfukuchi" creationdate="20170112T080517Z">
+        <seg>コンプライアンス利用プロセスは、問題となるソフトウェア パッケージのソースコードのスキャン、発見された課題の特定と解決、法務レビューおよびアーキテクチャー レビューの実施、そのソフトウェア パッケージに対する利用許可に関する判断を含みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5508,8 +5508,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The discussions exclude policies and processes for using open source solely inside your organization for testing and evaluation purposes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170112T020908Z" creationid="hfukuchi" creationdate="20170112T020908Z">
-        <seg>ここでの議論では、テストや評価目的など組織内だけで使用されるオープン ソースのためのポリシーやプロセスは除外されます</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074123Z" creationid="hfukuchi" creationdate="20170112T020908Z">
+        <seg>ここでの議論では、テストや評価目的など組織内だけで利用されるオープン ソースのためのポリシーやプロセスは除外されます</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,8 +5532,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The final review is usually an OSRB face-to-face meeting during which the OSRB approves or denies usage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T063558Z" creationid="hfukuchi" creationdate="20170116T075332Z">
-        <seg>最終レビューは、通常はOSRBメンバが直接集まる形式の会議で行い、OSRBは利用の許可または却下を決めます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T080142Z" creationid="hfukuchi" creationdate="20170116T075332Z">
+        <seg>最終レビューは、通常はOSRBメンバが対面する会議で行い、OSRBは利用の許可または却下を決めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,8 +5877,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The output from the scan phase is a report produced by the source code scanning tool that provides information on:</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170116T091418Z" creationid="hfukuchi" creationdate="20170116T091418Z">
-        <seg>スキャン フェーズからのアウトプットは、ソース コード スキャン ツールによって生成された報告です。これには、次のような情報が書かれます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T080755Z" creationid="hfukuchi" creationdate="20170116T091418Z">
+        <seg>スキャン フェーズのアウトプットは、ソース コード スキャン ツールによって生成される報告です。これには、次のような情報が書かれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5942,8 +5942,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The report flags issues such as conflicting and incompatible licenses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T065034Z" creationid="hfukuchi" creationdate="20170117T011030Z">
-        <seg>この報告書は、矛盾を起こしているライセンスや非互換ライセンスのような課題についてフラグを付けます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T081006Z" creationid="hfukuchi" creationdate="20170117T011030Z">
+        <seg>この報告書は、矛盾を起こしているライセンスや非互換ライセンスのような課題にフラグを付けています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6337,8 +6337,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>This chapter discusses usage policy and process in addition to the base and incremental compliance process, and guidelines for achieving incremental compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170112T020935Z" creationid="hfukuchi" creationdate="20170112T020935Z">
-        <seg>この章では、基本コンプライアンス プロセスとインクリメンタル コンプライアンス プロセスや、インクリメンタル コンプライアンスを達成するためのガイドラインに加えて、利用ポリシーや利用プロセスを議論します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074148Z" creationid="hfukuchi" creationdate="20170112T020935Z">
+        <seg>この章では、基本コンプライアンス プロセスとインクリメンタル コンプライアンス プロセスや、インクリメンタル コンプライアンスを達成するためのガイドラインに加えて、利用ポリシーや利用プロセスも議論します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6385,8 +6385,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>This figure does not demonstrate the iterative nature of such a process; a more elaborate view is provided in Figure 17 (page 89).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170112T081850Z" creationid="hfukuchi" creationdate="20170112T081231Z">
-        <seg>この図は、プロセスの反復的な性質は示していません。より詳しい図は、図17（90ページ）に示します。(page 89).</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074726Z" creationid="hfukuchi" creationdate="20170112T081231Z">
+        <seg>この図は、プロセスの反復的な性質は示していません。より詳しい図は、図17（90ページ）に示します。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6401,8 +6401,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>This is a simple online form that an engineer or a developer fills out, providing basic information about the source code in question.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170323T090702Z" creationid="hfukuchi" creationdate="20170112T084717Z">
-        <seg>これは、技術者や開発者が、問題となっているソース コードについての基本情報を提供するために記入する簡単なオンラインのフォームです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074851Z" creationid="hfukuchi" creationdate="20170112T084717Z">
+        <seg>これは、技術者や開発者が、問題となるソース コードについての基本情報を提供するために記入する簡単なオンラインのフォームです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,8 +6984,8 @@ based, magazines, newspapers, flyers, etc.) must display the acknowledgement.</s
       <tuv lang="EN-US">
         <seg>and M.Sc.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170322T093203Z" creationid="hfukuchi" creationdate="20170322T093203Z">
-        <seg>修士を</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T073804Z" creationid="hfukuchi" creationdate="20170322T093203Z">
+        <seg>修士</seg>
       </tuv>
     </tu>
     <tu>
