@@ -1697,8 +1697,8 @@
       <tuv lang="EN-US">
         <seg>Figure 17 (next page) provides a detailed process that highlights several possible scenarios, and how to move from one step to another in the compliance process.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170117T061609Z" creationid="hfukuchi" creationdate="20170117T061609Z">
-        <seg>図17（次ページ）は、いくつかの可能なシナリオと、コンプライアンス プロセスにおいてあるステップから別のステップへどのように状態遷移するかについて、詳細なプロセスを示しています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170404T075211Z" creationid="hfukuchi" creationdate="20170117T061609Z">
+        <seg>図17（次ページ）は、いくつかの可能なシナリオと、コンプライアンス プロセスにおいて、一つのステップから別のステップへどのように状態遷移するかについて、詳細なプロセスを示しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2814,8 +2814,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In this case, the compliance officer moves the compliance ticket back into the resolution phase, assigning it to a developer to resolve the linkage issue.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170118T064943Z" creationid="hfukuchi" creationdate="20170118T064943Z">
-        <seg>このケースでは、コンプライアンス オフィサーは、コンプライアンス チケットを解決フェーズに送り、リンクに関する課題を解決するために開発者に割り当てます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170404T075914Z" creationid="hfukuchi" creationdate="20170118T064943Z">
+        <seg>このケースでは、コンプライアンス オフィサーは、コンプライアンス チケットを解決フェーズに送り、リンクに関する課題を解決するように開発者に割り当てます。</seg>
       </tuv>
     </tu>
     <tu>
