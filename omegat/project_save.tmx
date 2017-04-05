@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>(Initial compliance, also called baseline compliance, happens when development starts, and goes until the release of the first version of the product.) Incremental compliance requires a comparatively small effort in comparison to the efforts involved in establishing baseline compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T083426Z" creationid="hfukuchi" creationdate="20170119T074405Z">
-        <seg>（ベースライン コンプライアンスとも呼ばれる、初期コンプライアンスは、開発が開始された時に発生し、製品の初期版が出荷されるまで継続します。）インクリメンタル コンプライアンスは、ベースライン コンプライアンスを確立するために必要とする努力と比べると小さな努力しか必要としません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T090111Z" creationid="hfukuchi" creationdate="20170119T074405Z">
+        <seg>（ベースライン コンプライアンスとも呼ばれる、初期コンプライアンスは、開発が開始された時に発生し、製品の初期版が出荷されるまで継続します。）インクリメンタル コンプライアンスは、ベースライン コンプライアンスを確立するために必要とする努力と比べると小さな努力ですみます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -929,8 +929,8 @@
       <tuv lang="EN-US">
         <seg>Completing the OSRB usage form (also called a request form) is one of the most important steps when bringing open source software into a company (ingress), and should be taken very seriously.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170123T040458Z" creationid="hfukuchi" creationdate="20170123T040458Z">
-        <seg>OSRB利用フォーム（要求フォームとも呼ばれます）を記入することは、オープン ソース ソフトウェアを企業へ導入する際の最も重要なステップの一つです。ですから、真面目に取り扱うべきものです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T091236Z" creationid="hfukuchi" creationdate="20170123T040458Z">
+        <seg>OSRB利用フォーム（要求フォームとも呼ばれます）を記入することは、オープン ソース ソフトウェアを企業へ導入する際の最も重要なステップの一つです。ですから、真剣に取り扱うべきものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1269,8 +1269,8 @@
       <tuv lang="EN-US">
         <seg>Developers fill out the online form requesting approval to use a given open source component.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170123T040726Z" creationid="hfukuchi" creationdate="20170123T040726Z">
-        <seg>開発者は、該当するオープン ソース コンポーネントの利用の承認を要求するオンライン フォームに記入します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T091325Z" creationid="hfukuchi" creationdate="20170123T040726Z">
+        <seg>開発者は、該当するオープン ソース コンポーネントの利用の承認を要求するオンライン フォームを記入します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1601,24 +1601,24 @@
       <tuv lang="EN-US">
         <seg>Existing software components may have been retired.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T083701Z" creationid="hfukuchi" creationdate="20170119T080941Z">
-        <seg>既存のソフトウェア コンポーネントは、既に使用中止になっているかもしれません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T090421Z" creationid="hfukuchi" creationdate="20170119T080941Z">
+        <seg>既存のソフトウェア コンポーネントが、既に使用中止になっているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Existing software components may have been upgraded to a newer version.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T083720Z" creationid="hfukuchi" creationdate="20170119T081028Z">
-        <seg>既存のソフトウェア コンポーネントは、新しいバージョンに更新されているかもしれません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T090430Z" creationid="hfukuchi" creationdate="20170119T081028Z">
+        <seg>既存のソフトウェア コンポーネントが、新しいバージョンに更新されているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Existing software components may have code changes involving bug fixes or changes to functionality and architecture.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T092656Z" creationid="hfukuchi" creationdate="20170119T082058Z">
-        <seg>既存のソフトウェア コンポーネントは、不具合修正を含むコード変更や、機能やアーキテクチャーに対する変更が含まれているかもしれません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T090518Z" creationid="hfukuchi" creationdate="20170119T082058Z">
+        <seg>既存のソフトウェア コンポーネントが、不具合修正を含むコード変更や、機能やアーキテクチャーに対する変更を含んでいるかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2509,8 +2509,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>If the third-party software provider provides only binaries, not source code, then the product team and/or the software supplier manager who manages the relationship with the third-party software provider must obtain a confirmation (for instance, a scan report) that there is no open source in the provided software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170123T044059Z" creationid="hfukuchi" creationdate="20170123T044059Z">
-        <seg>もし、サード パーティ ソフトウェア プロバイダーが、ソースコード無しに、バイナリだけを提供している場合には、製品チームと、そのサード パーティ ソフトウェア プロバイダーと連絡を取っているソフトウェア供給マネージャは、両方、またはどちらかが、（例えばスキャン報告などによって）提供されたソフトウェアにオープン ソースが含まれていないことを確認しなければなりません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T091811Z" creationid="hfukuchi" creationdate="20170123T044059Z">
+        <seg>もし、サード パーティ ソフトウェア プロバイダーが、ソースコード無しにバイナリだけを提供している場合には、製品チームと、そのサード パーティ ソフトウェア プロバイダーと連絡を取っているソフトウェア供給マネージャは、両方、またはどちらかが、（例えばスキャン報告などによって）提供されたソフトウェアにオープン ソースが含まれていないことを確認しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,8 +2726,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In the event that engineering insists on keeping the proprietary source code in the open source component, the OSEC will have to release the proprietary source code under an open source license.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170118T081717Z" creationid="hfukuchi" creationdate="20170118T081717Z">
-        <seg>技術担当がオープン ソース コンポーネント中にプロプライエタリ ソース コードを保持し続けることを固辞した場合には、OSECはプロプライエタリ ソース コードをオープン ソース ライセンスの下でリリースしなければなりません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T083859Z" creationid="hfukuchi" creationdate="20170118T081717Z">
+        <seg>技術担当がオープン ソース コンポーネント中にプロプライエタリ ソース コードを保持し続けることを固辞した場合には、OSECはプロプライエタリ ソース コードをオープン ソース ライセンスの下でリリースする決定をしなければならなくなるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,8 +2870,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In this scenario, the OSRB decides to reject usage of a specific software component.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170118T084900Z" creationid="hfukuchi" creationdate="20170118T084900Z">
-        <seg>このシナリオでは、OSRBは、特定のソフトウェア利用の却下を決定する。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T085323Z" creationid="hfukuchi" creationdate="20170118T084900Z">
+        <seg>このシナリオでは、OSRBは、特定のソフトウェア利用の却下を決定します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5788,8 +5788,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The license on a software component may have changed between versions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T083728Z" creationid="hfukuchi" creationdate="20170119T081224Z">
-        <seg>ソフトウェア コンポーネントのライセンスは、バージョンの間で変更されているかもしれません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T090437Z" creationid="hfukuchi" creationdate="20170119T081224Z">
+        <seg>ソフトウェア コンポーネントのライセンスが、バージョンの間で変更されているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6264,8 +6264,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>These packages will be used in a later stage (prior to distribution) to verify and track any changes introduced to the source code by computing the difference between the original package and the modified package.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T084339Z" creationid="hfukuchi" creationdate="20170123T043004Z">
-        <seg>これらのパッケージは、後の段階で（頒布の前に）、オリジナル パッケージと変更されたパッケージの差異を計算することで、ソース コードに加えられたいかなる変更も検証し追跡するために、使用されます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T091634Z" creationid="hfukuchi" creationdate="20170123T043004Z">
+        <seg>これらのパッケージは、後の段階で（頒布の前に）、オリジナル パッケージと変更されたパッケージの差異を計算することによって、ソース コードに加えられた全ての変更を検証し追跡するために、使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6610,8 +6610,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>Update the software inventory to reflect that the specific OSS software component version x is approved for usage in product y, version z.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170124T064708Z" creationid="hfukuchi" creationdate="20170118T084036Z">
-        <seg>「あるOSSソフトウェア コンポーネントのバージョンXは、製品YのバージョンZでの使用が承認された」ことをソフトウェア一覧表に反映させます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T084358Z" creationid="hfukuchi" creationdate="20170118T084036Z">
+        <seg>あるOSSソフトウェア コンポーネントのバージョンXは、製品YのバージョンZでの使用が承認されたことをソフトウェア一覧表に反映させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,8 +7024,8 @@ based, magazines, newspapers, flyers, etc.) must display the acknowledgement.</s
       <tuv lang="EN-US">
         <seg>that is, it is still in use, is the same version, and has the same usage model (Figure 18, next page) .</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T093458Z" creationid="hfukuchi" creationdate="20170118T083158Z">
-        <seg>使用されている、同じバージョンである、利用形態が同じである（次ページの図18）</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170405T084235Z" creationid="hfukuchi" creationdate="20170118T083158Z">
+        <seg>つまり、まだ使用されており、同じバージョンであり、利用形態が同じであること（次ページの図18）</seg>
       </tuv>
     </tu>
     <tu>
