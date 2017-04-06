@@ -354,16 +354,16 @@
       <tuv lang="EN-US">
         <seg>An example of license compatibility is combining code licensed under the X11 license, which is explicitly compatible with the GPL version 2.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T035631Z" creationid="hfukuchi" creationdate="20170321T035631Z">
-        <seg>ライセンス互換の例は、明らかにGPL version 2と互換である、X11ライセンスのコードを結合する時に見られます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071518Z" creationid="hfukuchi" creationdate="20170321T035631Z">
+        <seg>ライセンス両立性の例は、明らかにGPL version 2と両立できる、X11ライセンスのコードを結合する時に見られます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>An example of licensing incompatibility can be found in attempting to combine code distributed under the Apache version 2 license with software under the GNU GPL version 2.0 (due to patent termination and indemnification provisions not present in the older GPL license ).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071325Z" creationid="hfukuchi" creationdate="20170321T035400Z">
-        <seg>ライセンス非互換の例は、Apache version 2ライセンスで頒布されたコードをGNU GPL version 2の（古いGPLライセンスには存在していなかった特許終了と免責に関する事項によって）ソフトウェアと結合しようとするときに見られます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071334Z" creationid="hfukuchi" creationdate="20170321T035400Z">
+        <seg>両立しないライセンスの例は、Apache version 2ライセンスで頒布されたコードをGNU GPL version 2の（古いGPLライセンスには存在していなかった特許終了と免責に関する事項によって）ソフトウェアと結合しようとするときに見られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,8 +554,8 @@
       <tuv lang="EN-US">
         <seg>Avoid mixing different open source licenses in a derivative work, as many open source licenses are incompatible with one another.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170306T080507Z" creationid="hfukuchi" creationdate="20170306T080507Z">
-        <seg>多くのオープン ソース ライセンスは互いに互換性を持っていないので、派生物に異なるオープン ソース ライセンスを結合することを避けます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T070814Z" creationid="hfukuchi" creationdate="20170306T080507Z">
+        <seg>多くのオープン ソース ライセンスは互いに両立性を持っていないので、派生物に異なるオープン ソース ライセンスを結合することを避けます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -895,8 +895,8 @@
       <tuv lang="EN-US">
         <seg>Compatibility also</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T025126Z" creationid="hfukuchi" creationdate="20170321T025126Z">
-        <seg>互換性は、また、</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T070918Z" creationid="hfukuchi" creationdate="20170321T025126Z">
+        <seg>両立性は、また、</seg>
       </tuv>
     </tu>
     <tu>
@@ -1553,8 +1553,8 @@
       <tuv lang="EN-US">
         <seg>Example license compatibility matrix (for illustration purposes only)</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T040818Z" creationid="hfukuchi" creationdate="20170321T040818Z">
-        <seg>ライセンス互換性マトリックスの例（説明目的のみに使用）</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071055Z" creationid="hfukuchi" creationdate="20170321T040818Z">
+        <seg>ライセンス両立性マトリックスの例（説明目的のみに使用）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2405,8 +2405,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>If a licensing issue is found, for example mixed source code with incompatible licenses, the legal counsel will flag these issues and reassign the compliance ticket to Engineering to rework the code.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T075611Z" creationid="hfukuchi" creationdate="20170113T064632Z">
-        <seg>例えば非互換のライセンスをもつソース コードを組み合わせるなど、ライセンスに課題が発見されたときには、法務担当はこれらの課題にフラグをつけて、コードの再作業のためにコンプライアンス チケットを技術担当へ再割り当てします。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071145Z" creationid="hfukuchi" creationdate="20170113T064632Z">
+        <seg>例えば両立しないライセンスをもつソース コードを組み合わせるなど、ライセンスに課題が発見されたときには、法務担当はこれらの課題にフラグをつけて、コードの再作業のためにコンプライアンス チケットを技術担当へ再割り当てします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,8 +2894,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In this scenario, you must ensure the sources have compatible license terms that allow you to join them in a binary or an object file without any conflict.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T040206Z" creationid="hfukuchi" creationdate="20170321T040206Z">
-        <seg>このシナリオでは、ソースは矛盾を抱えることなしにバイナリやオブジェクトファイルに結合できるような互換性のあるライセンス条件を持つことを確認しなければなりません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071011Z" creationid="hfukuchi" creationdate="20170321T040206Z">
+        <seg>このシナリオでは、ソースは矛盾を抱えることなしにバイナリやオブジェクトファイルに結合できるような両立性のあるライセンス条件を持つことを確認しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3359,8 +3359,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>LICENSE COMPATIBILITY MATRIX</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170316T093358Z" creationid="hfukuchi" creationdate="20170316T093358Z">
-        <seg>ライセンス互換性マトリックス</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T070850Z" creationid="hfukuchi" creationdate="20170316T093358Z">
+        <seg>ライセンス両立性マトリックス</seg>
       </tuv>
     </tu>
     <tu>
@@ -3456,32 +3456,32 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>License compatibility challenges can arise when combining diverse open source software components, in source and/or object form, that are distributed under licenses with incompatible terms.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T033606Z" creationid="hfukuchi" creationdate="20170321T033606Z">
-        <seg>ライセンス互換性に関する取り組みは、非互換の条件の下に頒布されている様々なオープン ソース ソフトウェア コンポーネントを、ソースやオブジェクト形式で結合する際に、生じます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T070955Z" creationid="hfukuchi" creationdate="20170321T033606Z">
+        <seg>ライセンス両立性に関する取り組みは、両立しない条件の下に頒布されている様々なオープン ソース ソフトウェア コンポーネントを、ソースやオブジェクト形式で結合する際に、生じます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>License compatibility is an area where development teams need detailed guidance from Legal Counsel and should never be left to draw their own conclusions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071458Z" creationid="hfukuchi" creationdate="20170321T040540Z">
-        <seg>ライセンス互換性は、開発チームが法務担当からの詳細なガイドラインを必要とするもので、自分たちだけで結論を出すべきではない分野です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071030Z" creationid="hfukuchi" creationdate="20170321T040540Z">
+        <seg>ライセンス両立性は、開発チームが法務担当からの詳細なガイドラインを必要とするもので、自分たちだけで結論を出すべきではない分野です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>License compatibility is the determination of whether a software component and its license are compatible with one or more other components and their licenses (i.e., that their licensing terms do not conflict).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170330T071156Z" creationid="hfukuchi" creationdate="20170321T025117Z">
-        <seg>ライセンス互換性とは、ソフトウェア コンポーネントとそのライセンスが一つ以上の他のコンポーネントとそのライセンスと互換であるかどうか（ライセンスが矛盾を起こさないか）を決めることです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071315Z" creationid="hfukuchi" creationdate="20170321T025117Z">
+        <seg>ライセンス両立性とは、ソフトウェア コンポーネントとそのライセンスが一つ以上の他のコンポーネントとそのライセンスと両立できるかどうか（ライセンスが矛盾を起こさないか）を決めることです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>License compatibility matrix: A grid to help determine whether License-A is compatible with License-B.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170315T090344Z" creationid="hfukuchi" creationdate="20170315T090344Z">
-        <seg>ライセンス互換性マトリックス：ライセンスAがライセンスBと互換性があるか判断するのを助ける表</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T070838Z" creationid="hfukuchi" creationdate="20170315T090344Z">
+        <seg>ライセンス両立性マトリックス：ライセンスAがライセンスBと両立性があるか判断するのを助ける表</seg>
       </tuv>
     </tu>
     <tu>
@@ -4681,16 +4681,16 @@ or stored on equivalent media), your work is not complete.</seg>
       <tuv lang="EN-US">
         <seg>Scenario 2: Incompatible licenses</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170118T062625Z" creationid="hfukuchi" creationdate="20170118T062625Z">
-        <seg>シナリオ2：非互換ライセンス（の組み合わせ）</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T070743Z" creationid="hfukuchi" creationdate="20170118T062625Z">
+        <seg>シナリオ2：両立性のないライセンス（の組み合わせ）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scenario 2: The source code scanned includes code with incompatible licenses</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170324T074721Z" creationid="hfukuchi" creationdate="20170117T062030Z">
-        <seg>シナリオ2：スキャンされたソース コードは非互換ライセンスを含むコードを含んでいる</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071225Z" creationid="hfukuchi" creationdate="20170117T062030Z">
+        <seg>シナリオ2：スキャンされたソース コードは両立しないライセンスを含むコードを含んでいる</seg>
       </tuv>
     </tu>
     <tu>
@@ -5235,8 +5235,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>Such guidance can be provided via a License Compatibility Matrix that covers most popular licenses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T040700Z" creationid="hfukuchi" creationdate="20170321T040700Z">
-        <seg>そのようなガイドラインは、一般的なほとんどのライセンスをカバーするライセンス互換性マトリックスによって得られます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071041Z" creationid="hfukuchi" creationdate="20170321T040700Z">
+        <seg>そのようなガイドラインは、一般的なほとんどのライセンスをカバーするライセンス両立性マトリックスによって得られます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5942,8 +5942,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The report flags issues such as conflicting and incompatible licenses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T081006Z" creationid="hfukuchi" creationdate="20170117T011030Z">
-        <seg>この報告書は、矛盾を起こしているライセンスや非互換ライセンスのような課題にフラグを付けています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071210Z" creationid="hfukuchi" creationdate="20170117T011030Z">
+        <seg>この報告書は、矛盾を起こしているライセンスや両立しないライセンスのような課題にフラグを付けています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,8 +5990,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The scanned software component includes source code that originated from multiple sources with incompatible licenses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170118T063127Z" creationid="hfukuchi" creationdate="20170118T062940Z">
-        <seg>スキャンされたソフトウェア コンポーネントは、互換性のないライセンスが付けられた複数のソース コードに由来するソース コードを含んでいることがあります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T070759Z" creationid="hfukuchi" creationdate="20170118T062940Z">
+        <seg>スキャンされたソフトウェア コンポーネントは、両立性のないライセンスが付けられた複数のソース コードに由来するソース コードを含んでいることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6120,8 +6120,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>There are license incompatibility issues that cannot be resolved easily.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170118T091507Z" creationid="hfukuchi" creationdate="20170118T091507Z">
-        <seg>容易に解決できない非互換ライセンスがある。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170406T071253Z" creationid="hfukuchi" creationdate="20170118T091507Z">
+        <seg>容易に解決できない両立しないライセンスがある。</seg>
       </tuv>
     </tu>
     <tu>
