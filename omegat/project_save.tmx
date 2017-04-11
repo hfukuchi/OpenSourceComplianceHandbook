@@ -586,8 +586,8 @@
       <tuv lang="EN-US">
         <seg>Before sending your written request, please check the Website, as the source code may already be published there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170130T074634Z" creationid="hfukuchi" creationdate="20170130T074634Z">
-        <seg>書面による要求を出される前に、ソース コードが既に公開されているか、このWebsiteを確認して下さい。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041412Z" creationid="hfukuchi" creationdate="20170130T074634Z">
+        <seg>書面による要求を出される前に、ソース コードが既に公開されているか、このウェブサイトを確認して下さい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1229,8 +1229,8 @@
       <tuv lang="EN-US">
         <seg>Depending on the form and format of the bill of materials, it is possible to use command-line diff tools, productivity tools (spreadsheets, etc.), directory comparison tools, and reports from build and continuous integration tools, plus scripting “glue,” to create web-based BOM version comparisons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170328T091731Z" creationid="hfukuchi" creationdate="20170207T053647Z">
-        <seg>BOMのフォーマットにも依存しますが、WebベースでBOMバージョン比較を作成するために、コマンドラインのdiffツールや、生産性ツール(spreadsheets等)や、ディレクトリ比較ツール、ビルドや連続統合ツールからの報告に加えて、これらを結合するスクリプトを利用することが可能です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041502Z" creationid="hfukuchi" creationdate="20170207T053647Z">
+        <seg>BOMのフォーマットにも依存しますが、ウェブベースでBOMバージョン比較を作成するために、コマンドラインのdiffツールや、生産性ツール(spreadsheets等)や、ディレクトリ比較ツール、ビルドや連続統合ツールからの報告に加えて、これらを結合するスクリプトを利用することが可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1488,8 +1488,8 @@
       <tuv lang="EN-US">
         <seg>Ensure that the end users of the product know how to locate this information, whether on the product itself, in the product documentation (user manual or CD-ROM), and/or on a website.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170206T035033Z" creationid="hfukuchi" creationdate="20170206T035033Z">
-        <seg>製品のエンド ユーザーが、この情報が、製品そのものの中、製品文書（ユーザーマニュアルまたはCD-ROM）の中、かつ／またはWebサイトなど、どこに置かれているかを知ることができるようにします。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041439Z" creationid="hfukuchi" creationdate="20170206T035033Z">
+        <seg>製品のエンド ユーザーが、この情報が、製品そのものの中、製品文書（ユーザーマニュアルまたはCD-ROM）の中、かつ／またはウェブサイトなど、どこに置かれているかを知ることができるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1938,8 +1938,8 @@
       <tuv lang="EN-US">
         <seg>Firstly, it requires a lot of effort to package all source code and make it available on the website by the date the product ships, at a time when all hands are on deck getting the product out the door.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170328T070234Z" creationid="hfukuchi" creationdate="20170126T082841Z">
-        <seg>まず第1に、全てのソース コードをパッケージ化し、製品出荷の準備を整える出荷日までに、Webサイト上でソース コードを入手可能にするという多大な努力が必要です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041237Z" creationid="hfukuchi" creationdate="20170126T082841Z">
+        <seg>まず第1に、全てのソース コードをパッケージ化し、製品出荷の準備を整える出荷日までに、ウェブサイト上でソース コードを入手可能にするという多大な努力が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,8 +1962,8 @@
       <tuv lang="EN-US">
         <seg>Following this distribution method, you provide the code when or shortly after your product or software stack ships, and make it made available to anyone who wishes to get it, typically via a website download.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170126T074318Z" creationid="hfukuchi" creationdate="20170125T054756Z">
-        <seg>この頒布方法に従い、製品やソフトウェア スタックの出荷時または直後にコードを提供し、一般的にはWebサイトからダウンロードによって、コードを欲しい人は誰でも入手できるようにします。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041225Z" creationid="hfukuchi" creationdate="20170125T054756Z">
+        <seg>この頒布方法に従い、製品やソフトウェア スタックの出荷時または直後にコードを提供し、一般的にはウェブサイトからダウンロードによって、コードを欲しい人は誰でも入手できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1995,8 +1995,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>For each product or service containing or using open source, the attributions must be included in published user documentation (such as the product manual) distributed in printed or electronic form, such as a CD or a download from a website.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T050335Z" creationid="hfukuchi" creationdate="20170306T090423Z">
-        <seg>オープン ソースを含むあるいは利用している製品やサービスに関していうと、属性は、（製品マニュアル等の）印刷されたユーザー文書や、CDまたはWebサイトからのダウンロードなど、印刷または電子形式で頒布されなくてはなりません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041604Z" creationid="hfukuchi" creationdate="20170306T090423Z">
+        <seg>オープン ソースを含むあるいは利用している製品やサービスに関していうと、属性は、（製品マニュアル等の）印刷されたユーザー文書や、CDまたはウェブサイトからのダウンロードなど、印刷または電子形式で頒布されなくてはなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,8 +2702,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>In some instances, such as with mobile phones or tablets, manufacturers are able to provide the notices on the actual device via a web browser or a PDF viewer (i.e., licensing text is available on the device either in HTML or PDF format).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170310T083649Z" creationid="hfukuchi" creationdate="20170310T083649Z">
-        <seg>携帯電話やタブレットなど、いくつかの例では、製造会社は、WebブラウザやPDFビューアを使って（ライセンス文は、HTMLやPDF形式で機器上で利用可能です）、実際の機器上で通知を提示することができます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041618Z" creationid="hfukuchi" creationdate="20170310T083649Z">
+        <seg>携帯電話やタブレットなど、いくつかの例では、製造会社は、ウェブ ブラウザやPDFビューアを使って（ライセンス文は、HTMLやPDF形式で機器上で利用可能です）、実際の機器上で通知を提示することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3020,8 +3020,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>Indicate how to access the code of the open source package (written offer) either through a web page download or by contacting your company via email or postal mail at a specified address provided in the product manual.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170328T073428Z" creationid="hfukuchi" creationdate="20170130T055939Z">
-        <seg>オープン ソース パッケージのコードへのアクセス方法（文書による通知）、Webページからのダウンロードや、製品マニュアルで提供される特定のアドレス宛てのemailや郵便による問い合わせなどを提示します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041313Z" creationid="hfukuchi" creationdate="20170130T055939Z">
+        <seg>オープン ソース パッケージのコードへのアクセス方法（文書による通知）、ウェブページからのダウンロードや、製品マニュアルで提供される特定のアドレス宛てのemailや郵便による問い合わせなどを提示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3060,8 +3060,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>Informal methods include webinars, brown bag seminars, and presentations to new hires as part of the new employee orientation session.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T042925Z" creationid="hfukuchi" creationdate="20170215T092756Z">
-        <seg>非公式の方法は、Webでのトレーニング、ブラウン バッグ セミナー、新規雇用従業員へのオリエンテーションの一部としての説明などを含みます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041538Z" creationid="hfukuchi" creationdate="20170215T092756Z">
+        <seg>非公式の方法は、ウェブでのトレーニング、ブラウン バッグ セミナー、新規雇用従業員へのオリエンテーションの一部としての説明などを含みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,8 +3302,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>It is vital to archive open source packages downloaded from the web in their original form.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T084306Z" creationid="hfukuchi" creationdate="20170123T042433Z">
-        <seg>Webからダウンロードしたオープン ソース パッケージをオリジナル形式で保管しておくことは不可欠なことです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041132Z" creationid="hfukuchi" creationdate="20170123T042433Z">
+        <seg>ウェブからダウンロードしたオープン ソース パッケージをオリジナル形式で保管しておくことは不可欠なことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3529,8 +3529,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>License website URL</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170123T044955Z" creationid="hfukuchi" creationdate="20170123T044955Z">
-        <seg>ライセンスWebサイトURL</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041206Z" creationid="hfukuchi" creationdate="20170123T044955Z">
+        <seg>ライセンス ウェブサイトURL</seg>
       </tuv>
     </tu>
     <tu>
@@ -3903,8 +3903,8 @@ In this example, the compliance team identifies all open source included in the 
         <seg>Once open source packages are uploaded to the distribution website (and/
 or stored on equivalent media), your work is not complete.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170206T080335Z" creationid="hfukuchi" creationdate="20170206T080335Z">
-        <seg>オープン ソース パッケージが頒布用Webサイト（かつ／または、同等のメディアに格納）にアップロードされたとしても、作業は完了していません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041449Z" creationid="hfukuchi" creationdate="20170206T080335Z">
+        <seg>オープン ソース パッケージが頒布用ウェブサイト（かつ／または、同等のメディアに格納）にアップロードされたとしても、作業は完了していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3943,8 +3943,8 @@ or stored on equivalent media), your work is not complete.</seg>
       <tuv lang="EN-US">
         <seg>One example is the following checklist, used before making source code available on an external website:</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T064823Z" creationid="hfukuchi" creationdate="20170321T064823Z">
-        <seg>一つの例が、外部向けWebサイトにソース コードを置く前に利用される、以下のチェックリストです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041657Z" creationid="hfukuchi" creationdate="20170321T064823Z">
+        <seg>一つの例が、外部向けウェブサイトにソース コードを置く前に利用される、以下のチェックリストです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4916,16 +4916,16 @@ party shrink-wrap</seg>
       <tuv lang="EN-US">
         <seg>Some companies maintain both an internal and an external open source web portal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170215T080950Z" creationid="hfukuchi" creationdate="20170215T080950Z">
-        <seg>いくつかの企業は、社内向け、社外向けのオープン ソースWebポータルを運営しています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041527Z" creationid="hfukuchi" creationdate="20170215T080950Z">
+        <seg>いくつかの企業は、社内向け、社外向けのオープン ソース ウェブ ポータルを運営しています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Some companies opt for both options when possible, in addition to maintaining these notices on a given website (optional, but also often adopted, and it’s low maintenance .</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T044008Z" creationid="hfukuchi" creationdate="20170217T085958Z">
-        <seg>いくつかの企業は、Webサイト（一つの選択肢ではありますが、頻繁に採用され、維持にも手がかかりません。基本的にはWebサイト上に通知ファイルを置くだけです。）上で通知を維持しながら、可能な時には両方の選択肢を選びます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T042041Z" creationid="hfukuchi" creationdate="20170217T085958Z">
+        <seg>いくつかの企業は、ウェブサイト（一つの選択肢ではありますが、頻繁に採用され、維持にも手がかかりません。基本的にはウェブサイト上に通知ファイルを置くだけです。）上で通知を維持しながら、可能な時には両方の選択肢を選びます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,8 +5055,8 @@ or legal counsel.</seg>
 or license, which may or may not have incorporated open source in it
 .</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T075206Z" creationid="hfukuchi" creationdate="20170112T091418Z">
-        <seg>作者やライセンスが不明であり、オープン ソースが含まれているかもしれないWebからダウンロードしたソース コード。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041111Z" creationid="hfukuchi" creationdate="20170112T091418Z">
+        <seg>作者やライセンスが不明であり、オープン ソースが含まれているかもしれないウェブからダウンロードしたソース コード。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5111,8 +5111,8 @@ or license, which may or may not have incorporated open source in it
       <tuv lang="EN-US">
         <seg>Source code packages have been successfully uploaded to the website and can be downloaded on an external computer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170328T074612Z" creationid="hfukuchi" creationdate="20170130T073210Z">
-        <seg>ソース コード パッケージは、Webサイトに問題なくアップロードされ、外部コンピュータからダウンロード可能になっています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041321Z" creationid="hfukuchi" creationdate="20170130T073210Z">
+        <seg>ソース コード パッケージは、ウェブサイトに問題なくアップロードされ、外部コンピュータからダウンロード可能になっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5596,8 +5596,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>The form comprises several questions that will provide necessary information for the OSRB, allowing it to approve or disapprove the usage of the proposed open source component.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170327T084236Z" creationid="hfukuchi" creationdate="20170123T041323Z">
-        <seg>そのフォームは、OSRBが提案されているオープン ソース コンポーネントの利用を承認または却下することを決めるのに必要な情報を与えるような、いくつかの質問から構成されています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T040840Z" creationid="hfukuchi" creationdate="20170123T041323Z">
+        <seg>そのフォームは、提案されているオープン ソース コンポーネントの利用をOSRBが承認または却下することを決めるのに必要な情報を与えるような、いくつかの質問から構成されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6136,8 +6136,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>There are many checkpoints for validating the open source package before it makes its way to the website for customer and/or public consumption.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170127T083123Z" creationid="hfukuchi" creationdate="20170127T082830Z">
-        <seg>顧客や一般向けのWebサイトで公開する前に、オープン ソース パッケージの正当性を確認するための多くのチェックポイントがあります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041304Z" creationid="hfukuchi" creationdate="20170127T082830Z">
+        <seg>顧客や一般向けのウェブサイトで公開する前に、オープン ソース パッケージの正当性を確認するための多くのチェックポイントがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6457,8 +6457,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>This method is best managed via a secure website that requires a certain authentication on the part of the client to access and download the source code packages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170328T071023Z" creationid="hfukuchi" creationdate="20170126T084133Z">
-        <seg>この方法は、アクセスしてソース コード パッケージをダウンロードするための認証を必要とするセキュアなWebサイトにより最もよく管理されます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041251Z" creationid="hfukuchi" creationdate="20170126T084133Z">
+        <seg>この方法は、アクセスしてソース コード パッケージをダウンロードするための認証を必要とするセキュアなウェブサイトにより最もよく管理されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6767,8 +6767,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>WEB PORTALS</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170215T080734Z" creationid="hfukuchi" creationdate="20170215T080734Z">
-        <seg>Webポータル</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041517Z" creationid="hfukuchi" creationdate="20170215T080734Z">
+        <seg>ウェブ ポータル</seg>
       </tuv>
     </tu>
     <tu>
@@ -6783,8 +6783,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>Website URL</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170123T044908Z" creationid="hfukuchi" creationdate="20170123T044908Z">
-        <seg>WebサイトURL</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041141Z" creationid="hfukuchi" creationdate="20170123T044908Z">
+        <seg>ウェブサイトURL</seg>
       </tuv>
     </tu>
     <tu>
@@ -6880,8 +6880,8 @@ distribution checklist.</seg>
         <seg>Where applicable, all marketing and advertising material (including web-
 based, magazines, newspapers, flyers, etc.) must display the acknowledgement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170310T092533Z" creationid="hfukuchi" creationdate="20170310T092533Z">
-        <seg>適用可能ならば、全てのマーケティングや広告の資料（Webや雑誌、新聞、チラシ等）は謝辞を表示しなければなりません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041629Z" creationid="hfukuchi" creationdate="20170310T092533Z">
+        <seg>適用可能ならば、全てのマーケティングや広告の資料（ウェブや雑誌、新聞、チラシ等）は謝辞を表示しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,8 +6920,8 @@ based, magazines, newspapers, flyers, etc.) must display the acknowledgement.</s
       <tuv lang="EN-US">
         <seg>You cannot use the name of the open source project, authors, or contributors in any marketing, advertising, or documentation (hard copy, digital, or on the web) without prior written permission.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170314T083411Z" creationid="hfukuchi" creationdate="20170314T083411Z">
-        <seg>オープン ソース プロジェクト、著者、貢献者などの名前を、事前に文書による許諾を受けないで、マーケティング、広告や文書（紙媒体、電子媒体、Webなど）に利用することはできません。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041640Z" creationid="hfukuchi" creationdate="20170314T083411Z">
+        <seg>オープン ソース プロジェクト、著者、貢献者などの名前を、事前に文書による許諾を受けないで、マーケティング、広告や文書（紙媒体、電子媒体、ウェブなど）に利用することはできません。</seg>
       </tuv>
     </tu>
     <tu>
