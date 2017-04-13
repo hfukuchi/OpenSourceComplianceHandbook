@@ -651,8 +651,8 @@
       <tuv lang="EN-US">
         <seg>By thoroughly integrating compliance practices into the development cycle, distribution considerations can be greatly simplified and streamlined.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T044816Z" creationid="hfukuchi" creationdate="20170217T091248Z">
-        <seg>コンプライアンス プラクティスの開発サイクルでの徹底的な実施によって、頒布に関する考察はとても単純で簡素なものになります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170413T025225Z" creationid="hfukuchi" creationdate="20170217T091248Z">
+        <seg>コンプライアンス プラクティスを開発サイクルで徹底的に実施することによって、頒布に関する考察はとても単純で簡素なものになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -969,8 +969,8 @@
       <tuv lang="EN-US">
         <seg>Compliance is verified on a product-by-product, service-by-service basis: Just because an open source package is approved for use in one context does not necessarily mean it will be approved for use in a second one.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T045328Z" creationid="hfukuchi" creationdate="20170303T084355Z">
-        <seg>コンプライアンスは製品ごとサービスごとに検証されます。オープン ソース パッケージは、ある条件での利用を承認されたのであり、2次利用について承認されたわけではないからです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170413T034703Z" creationid="hfukuchi" creationdate="20170303T084355Z">
+        <seg>コンプライアンスは製品ごとサービスごとに検証されます。というのは、オープン ソース パッケージは、ある条件での利用を承認されたのであり、2次利用について承認されたわけではないからです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2139,8 +2139,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>Generally speaking, companies want to ensure that any source code subject to open source distribution obligations is compliance-ready prior to product shipment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170217T090836Z" creationid="hfukuchi" creationdate="20170217T090836Z">
-        <seg>一般的に言って、企業は、製品出荷前にオープン ソース頒布に関する義務を準拠状態にできることを望みます。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170413T025150Z" creationid="hfukuchi" creationdate="20170217T090836Z">
+        <seg>一般的に言って、企業は、製品出荷前にオープン ソース頒布に関する義務を果たした状態にできることを望みます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2421,16 +2421,16 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>If an approved open source package is no longer in use, engineers must inform the OSRB to update the open source inventory; alternatively, the OSRB will discover that the package is not used anymore when they run the BOM diff tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170303T080419Z" creationid="hfukuchi" creationdate="20170303T080419Z">
-        <seg>承認済みのオープン ソース パッケージが利用されなくなったならば、技術者はOSRBに連絡してオープン ソースリストを更新するように通知しなければなりません。さもなければ、OSRBは、BOM差分ツールを実行する際にもはや使われなくなっているパッケージを見つけるでしょう。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170413T034502Z" creationid="hfukuchi" creationdate="20170303T080419Z">
+        <seg>承認済みのオープン ソース パッケージが利用されなくなったならば、技術者はOSRBに連絡してオープン ソースリストを更新するように通知しなければなりません。さもなければ、OSRBが、BOM差分ツールを実行する際にもはや使われなくなっているパッケージを見つけるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If an approved package went through a major change, inform the OSRB to re-scan the source code; alternatively, the OSRB will discover that the package has been modified when they run the BOM diff tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170303T081008Z" creationid="hfukuchi" creationdate="20170303T080935Z">
-        <seg>承認済みのパッケージが大きな変更を受けた時には、OSRBにソースコードを再スキャンするように通知します。さもなければ、OSRBはBOM差分ツールを実行する際にパッケージが変更されていることを発見するでしょう。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170413T034523Z" creationid="hfukuchi" creationdate="20170303T080935Z">
+        <seg>承認済みのパッケージが大きな変更を受けた時には、OSRBにソースコードを再スキャンするように通知します。さもなければ、OSRBがBOM差分ツールを実行する際にパッケージが変更されていることを発見するでしょう。</seg>
       </tuv>
     </tu>
     <tu>
