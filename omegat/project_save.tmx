@@ -594,8 +594,8 @@
       <tuv lang="EN-US">
         <seg>Below is an example of a written offer to provide the source code:</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170130T073518Z" creationid="hfukuchi" creationdate="20170130T073518Z">
-        <seg>以下は、ソース コードを提供するための文書による通知の例です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T040035Z" creationid="hfukuchi" creationdate="20170130T073518Z">
+        <seg>以下は、ソース コードを提供するための書面による申出の例です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -871,8 +871,8 @@
       <tuv lang="EN-US">
         <seg>Companies usually receive compliance inquiries through a dedicated email address that they advertise in their written offer or as part of their open source notices.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170329T035750Z" creationid="hfukuchi" creationdate="20170213T023401Z">
-        <seg>企業は、通常、コンプライアンスに関する照会を、文書による通知やオープン ソース通知の一部として案内している専用emailアドレス経由で受け取ります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T040107Z" creationid="hfukuchi" creationdate="20170213T023401Z">
+        <seg>企業は、通常、コンプライアンスに関する照会を、書面による申出やオープン ソース通知の一部として案内している専用emailアドレス経由で受け取ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3020,8 +3020,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>Indicate how to access the code of the open source package (written offer) either through a web page download or by contacting your company via email or postal mail at a specified address provided in the product manual.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041313Z" creationid="hfukuchi" creationdate="20170130T055939Z">
-        <seg>オープン ソース パッケージのコードへのアクセス方法（文書による通知）、ウェブページからのダウンロードや、製品マニュアルで提供される特定のアドレス宛てのemailや郵便による問い合わせなどを提示します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T035528Z" creationid="hfukuchi" creationdate="20170130T055939Z">
+        <seg>オープン ソース パッケージのコードへのアクセス方法（書面による申し出）、ウェブページからのダウンロードや、製品マニュアルで提供される特定のアドレス宛てのemailや郵便による問い合わせなどを提示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3415,8 +3415,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>Legal has approved the written offer notice and overall compliance documentation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170321T065425Z" creationid="hfukuchi" creationdate="20170321T065425Z">
-        <seg>法務担当は、文書による通知とコンプライアンス文書全体を承認しています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T040154Z" creationid="hfukuchi" creationdate="20170321T065425Z">
+        <seg>法務担当は、書面による申出とコンプライアンス文書全体を承認しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3699,8 +3699,8 @@ In this example, the compliance team identifies all open source included in the 
       <tuv lang="EN-US">
         <seg>Most licenses with a source code redistribution obligation require that either the source code accompany the product or that the user receive a written offer with details on how to obtain the source code.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170306T084902Z" creationid="hfukuchi" creationdate="20170306T084902Z">
-        <seg>ソース コード再頒布義務を持つほとんどのライセンスは、製品に付随するソース コード提供か、ソース コードの入手方法を記述した文書による通知かを要求します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T040135Z" creationid="hfukuchi" creationdate="20170306T084902Z">
+        <seg>ソース コード再頒布義務を持つほとんどのライセンスは、製品に付随するソース コード提供か、ソース コードの入手方法を記述した書面による申出かを要求します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3951,8 +3951,8 @@ or stored on equivalent media), your work is not complete.</seg>
       <tuv lang="EN-US">
         <seg>One of the key obligations when using open source is to ensure clear and accurate documentation of copyright, attribution, and license information, and the availability of a written offer (for GPL/LGPL licensed source code).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170217T082638Z" creationid="hfukuchi" creationdate="20170217T082638Z">
-        <seg>オープン ソースを使う時に重要な義務の一つは、著作権、属性、ライセンス情報、そして文書による通知（GPL/LGPLで許諾されたソース コード）などの明確で正確な文書作成を確実にすることです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T040126Z" creationid="hfukuchi" creationdate="20170217T082638Z">
+        <seg>オープン ソースを使う時に重要な義務の一つは、著作権、属性、ライセンス情報、そして書面による申出（GPL/LGPLで許諾されたソース コード）などの明確で正確な文書作成を確実にすることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6659,8 +6659,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>Use clear language in the written offer and be inclusive of all open source included in the product.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170206T034628Z" creationid="hfukuchi" creationdate="20170206T034628Z">
-        <seg>文書による通知には、明快な言葉を使い、製品に使われている全てのオープン ソースが含まれるようにします。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T040057Z" creationid="hfukuchi" creationdate="20170206T034628Z">
+        <seg>書面による申出には、明快な言葉を使い、製品に使われている全てのオープン ソースが含まれるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6749,8 +6749,8 @@ distribution checklist.</seg>
       <tuv lang="EN-US">
         <seg>Verify that the written offer is sufficient to cover all parts of the source code that require such an offer (principally, code licensed under any of the GPL/LGPL family of licenses).</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170130T065427Z" creationid="hfukuchi" creationdate="20170130T065036Z">
-        <seg>文書による通知が、そういう通知を必要とするソース コード（基本的に、GPL/LGPL系ライセンスで許諾されたコード）全てを包含しているかを検証します。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T040045Z" creationid="hfukuchi" creationdate="20170130T065036Z">
+        <seg>書面による申出が、そういう通知を必要とするソース コード（基本的に、GPL/LGPL系ライセンスで許諾されたコード）全てを包含しているかを検証します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6904,8 +6904,8 @@ based, magazines, newspapers, flyers, etc.) must display the acknowledgement.</s
       <tuv lang="EN-US">
         <seg>Written Offer</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170130T073526Z" creationid="hfukuchi" creationdate="20170130T073435Z">
-        <seg>文書による通知</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170420T040004Z" creationid="hfukuchi" creationdate="20170130T073435Z">
+        <seg>書面による申出</seg>
       </tuv>
     </tu>
     <tu>
