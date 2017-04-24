@@ -2565,8 +2565,8 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       <tuv lang="EN-US">
         <seg>If they identify a dependency resulting in a licensing conflict, the Compliance Officer will issue a ticket to Engineering to resolve the dependency problem by reworking the source code.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20170403T084856Z" creationid="hfukuchi" creationdate="20170117T054443Z">
-        <seg>もしライセンス矛盾になるような依存関係を発見した場合、コンプライアンス オフィサーは、ソース コードの再作業によって依存関係問を題解決するためにチケットを技術担当に発行する。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170424T091452Z" creationid="hfukuchi" creationdate="20170117T054443Z">
+        <seg>もしライセンスの矛盾になるような依存関係を発見した場合、コンプライアンス オフィサーは、ソース コードの再作業によって依存関係問を題解決するためにチケットを技術担当に発行する。</seg>
       </tuv>
     </tu>
     <tu>
