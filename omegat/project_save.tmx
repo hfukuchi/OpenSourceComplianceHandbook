@@ -649,6 +649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But the core elements of compliance usually remain the same: identifying the open source in the code base, reviewing and approving its use, and satisfying obligations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T061136Z" creationid="hfukuchi" creationdate="20170426T060757Z">
+        <seg>しかし、コンプライアンスの中心的要素は、通常同じです：コード中のオープン ソースを特定し、レビューし、利用を許可し、義務を順守することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By thoroughly integrating compliance practices into the development cycle, distribution considerations can be greatly simplified and streamlined.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170413T025225Z" creationid="hfukuchi" creationdate="20170217T091248Z">
@@ -742,6 +750,14 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170329T050934Z" creationid="hfukuchi" creationdate="20170310T084815Z">
         <seg>変更は、以下を含むかもしれません：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T034531Z" creationid="hfukuchi" creationdate="20170426T034531Z">
+        <seg>第4章</seg>
       </tuv>
     </tu>
     <tu>
@@ -1651,6 +1667,22 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170123T044302Z" creationid="hfukuchi" creationdate="20170123T044302Z">
         <seg>区分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 10 offers a high-level overview of a sample end-to-end compliance process, and illustrates the various compliance steps or phases that components containing free and open source software undergo before receiving approval for integration in an externally distributed product or service.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T070019Z" creationid="hfukuchi" creationdate="20170426T070019Z">
+        <seg>図10は、一貫したコンプライアンス プロセスの高水準の概要図の一例を提示しており、外部出荷される製品やサービスへの統合許可を受ける前にフリー オープン ソース ソフトウェアを含むコンポーネントが通過する様々なコンプライアンス ステップやフェーズを図示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure 10.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T072158Z" creationid="hfukuchi" creationdate="20170426T072158Z">
+        <seg>図10</seg>
       </tuv>
     </tu>
     <tu>
@@ -2591,6 +2623,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170202T072343Z" creationid="hfukuchi" creationdate="20170202T072343Z">
         <seg>例えば、ソース コード スキャン ツールが、プロプライエタリ コンポーネントの中に未承認のGPL許諾されたソース コード（コード断片）の利用を発見したならば、このことについて、技術担当に訂正要求を提出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Implementation of open source compliance processes can vary across organizations based on a number of factors including the underlying development processes into which compliance must fit, the size and nature of the code base, the number of products or services involved, the amount of externally supplied code, the size and organizational structure, and so on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T060618Z" creationid="hfukuchi" creationdate="20170426T060618Z">
+        <seg>オープン ソース コンプライアンス プロセスの実現は、コンプライアンスを組み込む必要がある開発プロセス、コードのサイズと数、関連する製品とサービスの数、外部から導入されたコード量、組織のサイズや体制など、多くの要因に基づいて、組織ごとに変化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3812,6 +3852,14 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OPEN SOURCE COMPLIANCE PROCESS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T034551Z" creationid="hfukuchi" creationdate="20170426T034551Z">
+        <seg>オープン ソース コンプライアンス プロセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OSRB Form for Each Open Source Component</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170302T083642Z" creationid="hfukuchi" creationdate="20170302T083526Z">
@@ -4820,6 +4868,14 @@ or stored on equivalent media), your work is not complete.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170321T061759Z" creationid="hfukuchi" creationdate="20170321T061759Z">
         <seg>同様に、表10で、ライセンスAで許諾されたソース コードは、ライセンスCで許諾されたソース コードに静的にリンク可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simplified view of the compliance end-to-end process</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T072250Z" creationid="hfukuchi" creationdate="20170426T072250Z">
+        <seg>一貫したコンプライアンス プロセスの簡略図</seg>
       </tuv>
     </tu>
     <tu>
@@ -5948,6 +6004,14 @@ distribution checklist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result of compliance due diligence is identification of all free and open source software used in a product intended for external distribution, and a plan to meet the attendant license obligations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T062006Z" creationid="hfukuchi" creationdate="20170426T062006Z">
+        <seg>コンプライアンス精査の結果は、外部出荷を意図した製品において使われる全てのフリー オープン ソース ソフトウェアの特定と、それに付随するライセンス義務を遵守するための計画です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result of such combination is a licensing chimera, an aggregation of software components that for purely legalistic reasons cannot be redistributed.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170321T034914Z" creationid="hfukuchi" creationdate="20170321T034914Z">
@@ -6339,6 +6403,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074148Z" creationid="hfukuchi" creationdate="20170112T020935Z">
         <seg>この章では、基本コンプライアンス プロセスとインクリメンタル コンプライアンス プロセスや、インクリメンタル コンプライアンスを達成するためのガイドラインに加えて、利用ポリシーや利用プロセスも議論します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter focuses on the core elements of a compliance process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170426T061046Z" creationid="hfukuchi" creationdate="20170426T060810Z">
+        <seg>この章では、コンプライアンス プロセスの中心的要素に焦点を当てます。</seg>
       </tuv>
     </tu>
     <tu>
