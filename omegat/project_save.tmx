@@ -627,6 +627,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As part of this step of compliance due diligence, there are two important reviews: the architecture review and the linkage analysis review.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T073018Z" creationid="hfukuchi" creationdate="20170509T073018Z">
+        <seg>コンプライアンス精査のこのステップの一部として、2つの重要なレビューがあります：アーキテクチャー レビュー、リンク解析レビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask my manager for course of action</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170321T053601Z" creationid="hfukuchi" creationdate="20170321T053601Z">
@@ -1946,6 +1954,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure 13.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T061514Z" creationid="hfukuchi" creationdate="20170509T061514Z">
+        <seg>図13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure 14 illustrates a simplistic view of a compliance usage process.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170112T080844Z" creationid="hfukuchi" creationdate="20170112T080844Z">
@@ -2288,6 +2304,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170310T090304Z" creationid="hfukuchi" creationdate="20170310T090304Z">
         <seg>全ての製品に関して、著作権情報は、（ユーザーマニュアルのような）印刷物に含まれていなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For any given software components, the reviewers of the compliance ticket are:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T061105Z" creationid="hfukuchi" creationdate="20170509T061105Z">
+        <seg>与えられたソフトウェア コンポーネントに対する、コンプライアンス チケットのレビュアーは、</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,6 +2946,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
         <seg>If they identify a dependency resulting in a licensing conflict, the Compliance Officer will issue a ticket to Engineering to resolve the dependency problem by reworking the source code.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170424T091452Z" creationid="hfukuchi" creationdate="20170117T054443Z">
+        <seg>もしライセンスの矛盾になるような依存関係を発見した場合、コンプライアンス オフィサーは、ソース コードの再作業によって依存関係問を題解決するためにチケットを技術担当に発行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If they identify a dependency resulting in a licensing conflict, the OSRB Chair will issue a ticket to Engineering to resolve the dependency problem by reworking the source code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T074347Z" creationid="hfukuchi" creationdate="20170509T074347Z">
         <seg>もしライセンスの矛盾になるような依存関係を発見した場合、コンプライアンス オフィサーは、ソース コードの再作業によって依存関係問を題解決するためにチケットを技術担当に発行する。</seg>
       </tuv>
     </tu>
@@ -3568,6 +3600,15 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internal package owner (the developer working on specific source code component)
+.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T073637Z" creationid="hfukuchi" creationdate="20170509T061216Z">
+        <seg>社内パッケージ所有者（特定のソース コード コンポーネントの開発者）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Investigate</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170213T084846Z" creationid="hfukuchi" creationdate="20170213T084846Z">
@@ -3979,6 +4020,14 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linkage Analysis Review</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T074358Z" creationid="hfukuchi" creationdate="20170509T074358Z">
+        <seg>リンク解析レビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linkage Analysis Tool</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170207T060125Z" creationid="hfukuchi" creationdate="20170207T054229Z">
@@ -3991,6 +4040,14 @@ In this example, the compliance team identifies all open source included in the 
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170207T075214Z" creationid="hfukuchi" creationdate="20170206T082937Z">
         <seg>リンク解析ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linkage conflicts are reported to Engineering to resolve.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T074835Z" creationid="hfukuchi" creationdate="20170509T074835Z">
+        <seg>リンク問題は、解決するように技術担当に報告されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4257,6 +4314,22 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OSEC (Open Source Executive Committee)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T061509Z" creationid="hfukuchi" creationdate="20170509T061509Z">
+        <seg>OSEC （オープン ソース エグゼクティブ ボード）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OSRB (Open Source Review Board), which includes OSRB chair (Compliance Officer), Legal counsel, and OSRB engineering representative .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T061438Z" creationid="hfukuchi" creationdate="20170509T061438Z">
+        <seg>OSRBチェア、法務担当、およびOSRB技術代表からなるOSRB (オープン ソース レビュー ボード)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OSRB Form for Each Open Source Component</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170302T083642Z" creationid="hfukuchi" creationdate="20170302T083526Z">
@@ -4269,6 +4342,14 @@ In this example, the compliance team identifies all open source included in the 
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170123T035658Z" creationid="hfukuchi" creationdate="20170123T035658Z">
         <seg>OSRB利用フォーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OSRB members perform an architecture review and a linkage analysis for the specific component and mark it as ready for the next step (i.e., Approval) if no issues are uncovered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T075401Z" creationid="hfukuchi" creationdate="20170509T075128Z">
+        <seg>OSRBメンバーは、特定のコンポーネントに対してアーキテクチャ レビューとリンク解析を実施し、もし課題が発見されなければ、次のステップ（つまり承認）への準備が整っているという印をつけます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4337,6 +4418,14 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all reviews have been completed, the software component’s compliance ticket moves to the approval step, where it is either approved for usage in the product or not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T080154Z" creationid="hfukuchi" creationdate="20170509T080154Z">
+        <seg>全てのレビューが完了したら、ソフトウェア コンポーネントのコンプライアンス チケットは、製品に利用して良いかを決定する承認ステップへ移動します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once approved, the compliance officer will prepare the list of license obligations for the approved software component and pass it to appropriate departments for fulfillment.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170324T063947Z" creationid="hfukuchi" creationdate="20170116T083650Z">
@@ -4350,6 +4439,14 @@ or stored on equivalent media), your work is not complete.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041449Z" creationid="hfukuchi" creationdate="20170206T080335Z">
         <seg>オープン ソース パッケージが頒布用ウェブサイト（かつ／または、同等のメディアに格納）にアップロードされたとしても、作業は完了していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the auditing is complete and all issues identified earlier have been resolved, the compliance ticket for a specific software component moves to the review step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T060230Z" creationid="hfukuchi" creationdate="20170509T060230Z">
+        <seg>監査が完了し、以前に特定された全ての課題が解決されたら、特定のソフトウェア コンポーネントに対するコンプライアンス チケットは、レビュー ステップへ移動します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5199,30 @@ or stored on equivalent media), your work is not complete.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review phase outcome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T074910Z" creationid="hfukuchi" creationdate="20170509T074910Z">
+        <seg>レビュー フェーズの結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review phase prerequisite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T074852Z" creationid="hfukuchi" creationdate="20170509T074852Z">
+        <seg>レビュー フェーズの開始条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reviewers of the compliance ticket and their roles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T061622Z" creationid="hfukuchi" creationdate="20170509T061622Z">
+        <seg>コンプライアンス チケットのレビュアーとその役割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reviews</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170202T085610Z" creationid="hfukuchi" creationdate="20170202T085610Z">
@@ -5760,6 +5881,14 @@ or license, which may or may not have incorporated open source in it
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source code scanning or auditing personnel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T061324Z" creationid="hfukuchi" creationdate="20170509T061324Z">
+        <seg>ソース コード スキャンか監査の担当者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source code, including modifications (when applicable), has been prepared and is available at the time the product ships .</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170427T054636Z" creationid="hfukuchi" creationdate="20170427T054636Z">
@@ -5820,6 +5949,14 @@ or license, which may or may not have incorporated open source in it
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170508T064353Z" creationid="hfukuchi" creationdate="20170508T064353Z">
         <seg>ステップ4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 5 .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T075134Z" creationid="hfukuchi" creationdate="20170509T075134Z">
+        <seg>ステップ5</seg>
       </tuv>
     </tu>
     <tu>
@@ -6074,6 +6211,14 @@ distribution checklist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OSRB Chair performs this review using an automated tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T074730Z" creationid="hfukuchi" creationdate="20170509T074730Z">
+        <seg>OSRB チェアは、自動ツールを使用してこの調査を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OSRB must approve the form before engineering integrates the open source into the product build.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170327T090219Z" creationid="hfukuchi" creationdate="20170124T033911Z">
@@ -6094,6 +6239,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170119T082655Z" creationid="hfukuchi" creationdate="20170119T082655Z">
         <seg>答えは単純です。：第7章で議論しますが、BoM比較ツールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The approval comes from the OSRB (which includes, as described in an earlier chapter, Legal Counsel, an Engineering representative, and an open source expert).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T080505Z" creationid="hfukuchi" creationdate="20170509T080505Z">
+        <seg>承認はOSRBが行います。（前の章で説明したように、法務担当、技術代表、オープン ソース エキスパートが含まれます）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6322,10 +6475,26 @@ distribution checklist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The goal of a linkage analysis review is to find potentially problematic code combinations at the static and dynamic link level, such as linking a GPL or more commonly an LGPL-licensed library to a proprietary source code component.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T074716Z" creationid="hfukuchi" creationdate="20170509T074716Z">
+        <seg>リンク解析の目的は、動的および静的リンク レベルで、GPL ライブラリをプロプライエタリ ソース コード コンポーネントにリンクしているなど、問題発生の可能性のあるコードの組み合わせ を検出することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal of open source and compliance training is to raise awareness of open source policies and strategies and to build a common understanding of the issues and facts of open source licensing.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170215T083045Z" creationid="hfukuchi" creationdate="20170215T083045Z">
         <seg>オープン ソースとコンプライアンスに関するトレーニングの目標は、オープン ソース ポリシーと戦略についての意識を高め、オープン ソース ライセンスの課題と事実について共通理解を形成することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The goal of the architecture review is to analyze any interactions between the open source, third-party, and proprietary code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T073336Z" creationid="hfukuchi" creationdate="20170509T073336Z">
+        <seg>アーキテクチャー レビューの目的は、オープン ソース、サード パーティ、プロプライエタリ コード間の相互作用を解析することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6454,6 +6623,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170324T092511Z" creationid="hfukuchi" creationdate="20170117T054011Z">
         <seg>企業内のパッケージ オーナー、OSRB技術代表とコンプライアンス オフィサーが、通常アーキテクチャー レビューを実施します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The internal package owner, the OSRB engineering representative, and the open source expert usually perform the architecture review.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T073746Z" creationid="hfukuchi" creationdate="20170509T073630Z">
+        <seg>社内パッケージ所有者、OSRB技術代表、そしてオープン ソース エキスパートが、アーキテクチャ レビューを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6692,10 +6869,26 @@ distribution checklist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result of the architecture review is an analysis of the licensing obligations that may extend from the open source components to the proprietary components (and vice versa).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T073542Z" creationid="hfukuchi" creationdate="20170509T073542Z">
+        <seg>アーキテクチャー レビューの結果は、オープン ソース コンポーネントからプロプライエタリ コンポーネントへ（その逆も）影響を与えるライセンス義務の解析です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result of the architecture review is an analysis of the licensing obligations that may extend from the open source components to the proprietary components.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170324T092454Z" creationid="hfukuchi" creationdate="20170117T053603Z">
         <seg>アーキテクチャー レビューの結果は、オープン ソース コンポーネントがプロプライエタリ コンポーネントへ影響を与えるかもしれないライセンス義務の分析です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reviewers need to understand the licenses that govern use, modification, and distribution of the software, and identify the obligations of the various licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T060622Z" creationid="hfukuchi" creationdate="20170509T060622Z">
+        <seg>レビュアーは、ソフトウェアの利用、変更、頒布を支配するライセンスを理解し、様々なライセンスの義務を特定する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7535,6 +7728,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170123T041542Z" creationid="hfukuchi" creationdate="20170123T041542Z">
         <seg>通常、これらの値は、データ入力を効率的に行うために、プルダウン メニューで選べるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Various reviews are performed, as illustrated in Figure 13 (next page), and all identified issues must be resolved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T060416Z" creationid="hfukuchi" creationdate="20170509T060416Z">
+        <seg>図13（次ページ）に示すように、様々なレビューが実施され、特定された全ての課題は解決していなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
