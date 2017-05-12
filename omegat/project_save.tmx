@@ -266,6 +266,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acknowledge the use of open source by providing required copyright and attribution notices
+.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T092814Z" creationid="hfukuchi" creationdate="20170512T092814Z">
+        <seg>必要な著作権や属性を通知することで、オープン ソースを利用していることを知らせます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acknowledgments Notices</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170306T082556Z" creationid="hfukuchi" creationdate="20170306T082556Z">
@@ -294,6 +303,14 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170213T085939Z" creationid="hfukuchi" creationdate="20170213T085939Z">
         <seg>許容できる期間内で内部調査の結論を出して発見された事項を内部記録に残した後、照会者に結果を伝える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All OSRB members have reviewed the compliance ticket, and the OSRB has completed the architecture review and linkage analysis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T091651Z" creationid="hfukuchi" creationdate="20170509T091651Z">
+        <seg>全てのOSRBメンバーはコンプライアンス チケットをレビューし、OSRBはアーキテクチャー レビューとリンク解析を完了している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -539,6 +556,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approvals phase outcome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T091705Z" creationid="hfukuchi" creationdate="20170509T091705Z">
+        <seg>承認フェーズの結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Approvals phase prerequisite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T091510Z" creationid="hfukuchi" creationdate="20170509T091510Z">
+        <seg>承認フェーズの開始条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Approve or deny usage of the specific component.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T091757Z" creationid="hfukuchi" creationdate="20170509T091757Z">
+        <seg>特定コンポーネントの利用の承認または却下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Architectural diagrams and information on how this software component interacts with other software components</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170324T092543Z" creationid="hfukuchi" creationdate="20170117T060048Z">
@@ -599,6 +640,14 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170216T080806Z" creationid="hfukuchi" creationdate="20170216T080806Z">
         <seg>結果として、新規従業員は、社内で誰がその内容のエキスパートであるか、どういう社内イントラネットがあるか、オープン ソースとコンプライアンスに関するトレーニングがどのように登録されるかなど、必要な情報を受け取ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a result, the open source component cannot be used in the product, although the requester can consider submitting an appeal for reconsideration by the OSRB.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T091454Z" creationid="hfukuchi" creationdate="20170509T091454Z">
+        <seg>要求者はOSRBに再考を促すことは可能ですが、結果としては、オープン ソース コンポーネントは製品に使用できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1044,6 +1093,14 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170329T045642Z" creationid="hfukuchi" creationdate="20170306T081810Z">
         <seg>製品にオープン ソースを組み込んでいる企業は、エンド ユーザーに属性情報を提供する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Companies using open source in an externally distributed product or service must:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T092432Z" creationid="hfukuchi" creationdate="20170512T092410Z">
+        <seg>外部に提供する製品やサービスにオープン ソースを利用している企業は以下を行う必要があります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2356,6 +2413,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For most software components, approval is granted by the OSRB once a ticket has progressed to that point in the compliance process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T085906Z" creationid="hfukuchi" creationdate="20170509T085906Z">
+        <seg>ほとんどのソフトウェア コンポーネントに対して、チケットがコンプライアンス プロセスのこの点まで進めば、承認が与えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For product updates such as over-the-air (OTA) updates for cell phones, the attributions must also be revised when the product update includes new or updated open source components.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170329T050614Z" creationid="hfukuchi" creationdate="20170306T090948Z">
@@ -2791,6 +2856,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a new version of this open source software becomes available, you require a new approval to ensure that the usage model and even the license are still in line with your internal policy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T090944Z" creationid="hfukuchi" creationdate="20170512T090944Z">
+        <seg>このオープン ソース ソフトウェアの新しいバージョンが入手可能になったら、利用形態とライセンスが内部ポリシーと整合していることを確認するために新しい承認依頼を出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a third-party software provider uses open source, the product team integrating that code into the product must submit an OSRB usage form describing the open source to be used.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170327T084359Z" creationid="hfukuchi" creationdate="20170123T043247Z">
@@ -2823,6 +2896,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If companies are non-compliant with open source license obligations, they are not licensed, and thus exposed to legal action by the copyright holder for copyright infringement, and can potentially lose the right to use and distribute the software in question.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T093243Z" creationid="hfukuchi" creationdate="20170512T093243Z">
+        <seg>オープン ソース ライセンス義務を順守しない企業は、ライセンスを取得できず、著作権を侵害したとして、著作権所有者に法的行動をさらされる可能性があります。また、対象となるソフトウェアを使用および配布する権利を失う可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If nothing has changed in its status .</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170118T082954Z" creationid="hfukuchi" creationdate="20170118T082954Z">
@@ -2835,6 +2916,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170329T050459Z" creationid="hfukuchi" creationdate="20170306T090646Z">
         <seg>もし、製品やサービスがグラフィカル ユーザー インターフェイスやコマンド ライン インターフェイスを持っているならば、属性をそのUI経由で表示することも選択肢の一つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the OSRB rejects the use of the open source component, they communicate the reason for rejection to the requester, and this information is recorded as part of the compliance ticket.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T091827Z" creationid="hfukuchi" creationdate="20170509T090342Z">
+        <seg>OSRBがオープン ソース コンポーネントの利用を却下する場合、OSRBは却下の理由を要求者に伝え、この情報はコンプライアンス チケットの一部として記録されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2967,6 +3056,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you follow a conservative approach with your compliance practices, you would approve open source software for a specific version and usage in a specific product or service version.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T090740Z" creationid="hfukuchi" creationdate="20170512T090740Z">
+        <seg>保守的なアプローチの後にコンプライアンス プラクティスを進めるならば、特定のバージョンと、特定の製品やサービスバージョンでの利用に対して、オープン ソース ソフトウェアを承認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you opt for providing the source code on a CD-ROM, this will introduce some additional cost to you and additional verification steps to ensure the correctness of the process of burning the CD-ROM containing the source code packages.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170126T092323Z" creationid="hfukuchi" creationdate="20170126T092323Z">
@@ -3043,6 +3140,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170329T045930Z" creationid="hfukuchi" creationdate="20170306T082944Z">
         <seg>ほとんどの場合、オープン ソース プロジェクトは、貢献者のリストを含むAUTHORSと呼ばれるファイルを含んでいますので、属性表記の一部としてこの情報を使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to fulfill documentation obligations, appropriate notices must be included with the product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T093308Z" creationid="hfukuchi" creationdate="20170512T093308Z">
+        <seg>ドキュメント記載義務を履行するには、製品に適切な通知を含める必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3360,6 +3465,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this step of the compliance due diligence, the OSRB Chair prepares the notices and passes them to the appropriate departments for fulfillment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T093337Z" creationid="hfukuchi" creationdate="20170512T093337Z">
+        <seg>コンプライアンス精査の中のこのステップでは、OSRB チェアが通知文を準備し、それを各担当部署に手渡します 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this step, investigating reported allegations, you should refer to the compliance record for the component in question, review it, and verify if and how the compliance record compares with the inquiry.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170329T040531Z" creationid="hfukuchi" creationdate="20170213T085549Z">
@@ -3490,6 +3603,15 @@ In this example, the compliance team identifies all open source included in the 
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170329T040404Z" creationid="hfukuchi" creationdate="20170213T084005Z">
         <seg>照会者に自社のコンプライアンス手続きとプラクティスを伝え、照会された事項を調査することを確約します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inform the end user how to obtain a copy of the source code that’s been made available as a result of meeting the license obligations (when applicable)
+.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T092703Z" creationid="hfukuchi" creationdate="20170512T092703Z">
+        <seg>エンド ユーザーに、ライセンス義務を満たした結果として入手可能になっているソース コードのコピーをどのおうに入手できるかを通知します（必要に応じて）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3773,6 +3895,14 @@ In this example, the compliance team identifies all open source included in the 
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170329T040842Z" creationid="hfukuchi" creationdate="20170213T091145Z">
         <seg>協力的で誠意をもって照会者と一緒に課題を解決するのが、担当者の責任です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will also be added to the software inventory that tracks open source use and use cases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T085815Z" creationid="hfukuchi" creationdate="20170512T085815Z">
+        <seg>ソフトウェア コンポーネントは、オープン ソース利用とユースケースを記録したソフトウェア一覧表に加えられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4420,22 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notice phase outcome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T093550Z" creationid="hfukuchi" creationdate="20170512T093550Z">
+        <seg>通知フェーズの結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notice phase prerequisite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T093350Z" creationid="hfukuchi" creationdate="20170512T093350Z">
+        <seg>通知フェーズの開始条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notices</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170206T031636Z" creationid="hfukuchi" creationdate="20170206T031636Z">
@@ -4410,6 +4556,14 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once a software component has been approved for usage in a product or as part of a service, its compliance ticket will be updated to reflect the approval.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T085436Z" creationid="hfukuchi" creationdate="20170512T085436Z">
+        <seg>ソフトウェア コンポーネントが製品やサービスへの利用を承認されたら、コンプライアンス チケットは、承認を反映するように更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once a software component has received the audit, legal, and compliance approvals, it will be reviewed during an OSRB meeting.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170118T082800Z" creationid="hfukuchi" creationdate="20170118T082800Z">
@@ -4439,6 +4593,14 @@ or stored on equivalent media), your work is not complete.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041449Z" creationid="hfukuchi" creationdate="20170206T080335Z">
         <seg>オープン ソース パッケージが頒布用ウェブサイト（かつ／または、同等のメディアに格納）にアップロードされたとしても、作業は完了していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the OSRB approves the usage of an open source component, the OSRB communicates the approval to the product teams so they understand their responsibilities and begin preparations to fulfill the license obligations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T090148Z" creationid="hfukuchi" creationdate="20170509T090148Z">
+        <seg>OSRBがオープン ソース コンポーネントの利用を承認したら、OSRBは製品チームに承認を伝えますので、製品チームは責任を理解し、ライセンス義務履行の準備を始めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4503,6 +4665,14 @@ or stored on equivalent media), your work is not complete.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170428T072135Z" creationid="hfukuchi" creationdate="20170428T072135Z">
         <seg>以下条件の一つが満たされる：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the key obligations when using open source is the documentation obligation, also referred to as the notice obligation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T092247Z" creationid="hfukuchi" creationdate="20170512T092247Z">
+        <seg>オープン ソースを利用する際の重要な責務の一つは、ドキュメント記載の義務、または通知義務ともいわれるものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5117,10 +5287,42 @@ or stored on equivalent media), your work is not complete.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Registration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T091854Z" creationid="hfukuchi" creationdate="20170509T091854Z">
+        <seg>登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration phase outcome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T091426Z" creationid="hfukuchi" creationdate="20170512T091426Z">
+        <seg>登録フェーズの結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration phase prerequisite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T091322Z" creationid="hfukuchi" creationdate="20170512T091322Z">
+        <seg>登録フェーズの開始条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170213T085556Z" creationid="hfukuchi" creationdate="20170213T085556Z">
         <seg>報告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reproduce the entire text of the license agreements for the open source code included in the product</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T092843Z" creationid="hfukuchi" creationdate="20170512T092843Z">
+        <seg>製品に含まれているオープン ソース コードに対応するライセンスの全文を提示します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5961,6 +6163,22 @@ or license, which may or may not have incorporated open source in it
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 6 .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170509T091841Z" creationid="hfukuchi" creationdate="20170509T091841Z">
+        <seg>ステップ6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 7 .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T091928Z" creationid="hfukuchi" creationdate="20170512T091928Z">
+        <seg>ステップ7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steps accomplished after the OSRB approval</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170118T084804Z" creationid="hfukuchi" creationdate="20170118T084804Z">
@@ -6219,6 +6437,14 @@ distribution checklist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OSRB has approved the component’s usage in the product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T091411Z" creationid="hfukuchi" creationdate="20170512T091411Z">
+        <seg>OSRBはコンポーネントの製品への利用を承認している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OSRB must approve the form before engineering integrates the open source into the product build.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170327T090219Z" creationid="hfukuchi" creationdate="20170124T033911Z">
@@ -6319,6 +6545,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170403T074701Z" creationid="hfukuchi" creationdate="20170112T080517Z">
         <seg>コンプライアンス利用プロセスは、問題となるソフトウェア パッケージのソースコードのスキャン、発見された課題の特定と解決、法務レビューおよびアーキテクチャー レビューの実施、そのソフトウェア パッケージに対する利用許可に関する判断を含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The component is registered in the software inventory, with the component name, version, internal owner, and the details of where the component is being used, such as product name, version, release number, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T091921Z" creationid="hfukuchi" creationdate="20170512T091921Z">
+        <seg>コンポーネントは、コンポーネント名、バージョン、内部所有者、および製品名、バージョン、リリース番号等のコンポーネントが利用される場所の詳細などと共に、ソフトウェア一覧表に登録されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6667,6 +6901,14 @@ distribution checklist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The license, copyright, and attribution notices for a specific component are prepared and passed along to the appropriate departments to be included in the product documentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T093658Z" creationid="hfukuchi" creationdate="20170512T093658Z">
+        <seg>対象のコンポーネントのライセンス、著作権、および属性通知が準備され、製品の資料に含めるべく担当部署に手渡される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The licensing agreement for software components received from a third-party software provider</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170202T085604Z" creationid="hfukuchi" creationdate="20170202T085604Z">
@@ -6921,6 +7163,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170215T082458Z" creationid="hfukuchi" creationdate="20170215T082328Z">
         <seg>意思の伝達に関する最も重要で唯一の推奨事項は、社内にオープンソースに関連する企業目標や懸念事項を説明するか、社外のコミュニティ参加者に対するかに関わらず、明確で一貫性を持つことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The software component has been approved for usage and registered in the software inventory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170512T093540Z" creationid="hfukuchi" creationdate="20170512T093540Z">
+        <seg>ソフトウェア コンポーネントについて、使用が承認され、ソフトウェア一覧表への登録が完了している。</seg>
       </tuv>
     </tu>
     <tu>
