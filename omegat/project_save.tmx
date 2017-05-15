@@ -371,10 +371,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All pre-distribution verifications have been checked and no issue is discovered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024045Z" creationid="hfukuchi" creationdate="20170515T023943Z">
+        <seg>全ての頒布前検証がチェックされ、問題が発見されていない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All software must be audited and reviewed, including proprietary software components, software received from third-party providers, and open source software.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170323T090032Z" creationid="hfukuchi" creationdate="20170112T054040Z">
         <seg>全てのソフトウェアは、監査とレビューを受ける必要があります。これにはプロプライエタリ ソフトウェア、サード パーティ プロバイダーから受け取ったソフトウェア、そしてオープン ソース ソフトウェアを含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All source code comments have been reviewed and any offending or inappropriate content has been removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022041Z" creationid="hfukuchi" creationdate="20170515T022041Z">
+        <seg>全てのソース コード コメントはレビューされ、不適切な内容は取り除かれている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,6 +536,14 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170328T073554Z" creationid="hfukuchi" creationdate="20170130T070153Z">
         <seg>リンギスティック レビューを実施する他の重要な理由は、ソース コードやコメントが、将来使用する開発コード名や機能を言及していないことを確実にすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appropriate notices have been included in the product documentation to inform end-users of their right to request source code for identified open source .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T021923Z" creationid="hfukuchi" creationdate="20170515T021923Z">
+        <seg>適切な通知が、製品文書に含まれていて、エンド ユーザーに特定のオープン ソースのソース コードを要求する権利があることを知らせている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1252,6 +1276,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Component has been approved for usage, it has been registered in the software inventory, and all notices have been captured and sent for fulfillment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022744Z" creationid="hfukuchi" creationdate="20170515T022744Z">
+        <seg>コンポーネントは利用が承認され、ソフトウェア一覧表に登録され、全ての通知が収集され義務履行のために送付されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Component run-time context (kernel/drivers/modules, middleware, libraries, applications, etc.)
 .</seg>
       </tuv>
@@ -1461,6 +1493,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decide on distribution method and mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022843Z" creationid="hfukuchi" creationdate="20170515T022819Z">
+        <seg>頒布方法と様式を決定します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deciding on a distribution mode
 .</seg>
       </tuv>
@@ -1575,6 +1615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distribution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022923Z" creationid="hfukuchi" creationdate="20170515T022923Z">
+        <seg>頒布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distribution Checklists</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170127T075850Z" creationid="hfukuchi" creationdate="20170127T075850Z">
@@ -1603,6 +1651,22 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170124T045335Z" creationid="hfukuchi" creationdate="20170124T045335Z">
         <seg>頒布プロセスとポリシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution phase outcome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024055Z" creationid="hfukuchi" creationdate="20170515T024055Z">
+        <seg>頒布フェーズの結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution phase prerequisite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T023917Z" creationid="hfukuchi" creationdate="20170515T023917Z">
+        <seg>頒布フェーズの開始条件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +1830,14 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170201T082216Z" creationid="hfukuchi" creationdate="20170201T082216Z">
         <seg>オープン ソース コンポーネントの各新しいバージョンが、レビューされ、承認されることを確実にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure that all the pre-distribution verifications have been successfully completed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022913Z" creationid="hfukuchi" creationdate="20170515T022913Z">
+        <seg>全ての頒布前検証が問題なく完了していることを確実にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2300,6 +2372,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Final Verifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024226Z" creationid="hfukuchi" creationdate="20170515T024226Z">
+        <seg>最終検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final verifications outcome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024838Z" creationid="hfukuchi" creationdate="20170515T024838Z">
+        <seg>最終検証の結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final verifications phase prerequisite:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024805Z" creationid="hfukuchi" creationdate="20170515T024805Z">
+        <seg>最終検証フェーズの開始条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firstly, it requires a lot of effort to package all source code and make it available on the website by the date the product ships, at a time when all hands are on deck getting the product out the door.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170411T041237Z" creationid="hfukuchi" creationdate="20170126T082841Z">
@@ -2481,6 +2577,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170306T082215Z" creationid="hfukuchi" creationdate="20170306T082215Z">
         <seg>ライセンス全文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furthermore, a recommended practice is to provide email and postal mail contact information for any compliance or open source-related questions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T023902Z" creationid="hfukuchi" creationdate="20170515T023902Z">
+        <seg>更に、推奨プラクティスでは、コンプライアンスやオープン ソースに関係する問い合わせの受付に関する、電子メールや住所などの情報を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3052,6 +3156,14 @@ opensource.foobar.com (“Website”) within reasonable business delays.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170130T040636Z" creationid="hfukuchi" creationdate="20170130T040636Z">
         <seg>もし、GPL/LGPLで許諾されたコードを開示するのであれば、自分たちが加えた変更について、コードと文書を提供することを確実にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are providing a patch, ensure that it applies cleanly and that you have specified the proper version of the upstream component.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024751Z" creationid="hfukuchi" creationdate="20170515T024751Z">
+        <seg>もし、パッチを提供する時には、それが容易に適用できること、アップストリーム コンポーネントの適切なバージョンを特定していることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4420,6 +4532,14 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that this action is helpful to those desiring code download but may not be sufficient by itself to satisfy license obligations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T023532Z" creationid="hfukuchi" creationdate="20170515T023532Z">
+        <seg>この作業は、コードのダウンロードを希望する人には役に立ちますが、これ自体でライセンス義務を満たしていることにはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notice phase outcome</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170512T093550Z" creationid="hfukuchi" creationdate="20170512T093550Z">
@@ -4572,6 +4692,14 @@ In this example, the compliance team identifies all open source included in the 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once all pre-distribution verifications have been completed, it’s time to upload the open source packages to the distribution website, labeled with the product and version it corresponds to (this scenario assumes that you have chosen this method to make source code available; other methods are discussed in a later chapter).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T023354Z" creationid="hfukuchi" creationdate="20170515T023354Z">
+        <seg>頒布前検証が全て完了したら、対応する製品とバージョンをラベル付けして（このシナリオは、ソース コードを入手可能になることを想定しています。他の方法は後続の章で議論します。）、オープン ソース パッケージを頒布用ウェブサイトにアップロードします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once all reviews have been completed, the software component’s compliance ticket moves to the approval step, where it is either approved for usage in the product or not.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170509T080154Z" creationid="hfukuchi" creationdate="20170509T080154Z">
@@ -4649,6 +4777,14 @@ or stored on equivalent media), your work is not complete.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170213T071226Z" creationid="hfukuchi" creationdate="20170213T071226Z">
         <seg>コンプライアンスに関する照会を受け取ったら、照会を受け取ったことを伝え、期日を定めて調査を約束するなどの応答をすぐに行うべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you upload the open source packages to the distribution website, validate that the packages have been uploaded correctly and can be downloaded and uncompressed on an external computer without errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024524Z" creationid="hfukuchi" creationdate="20170515T024524Z">
+        <seg>オープン ソース パッケージを頒布用のウェブサイトにアップロードしたら、パッケージが正しくアップロードされ、ダウンロードでき、エラー無しに外部コンピューターで解凍できることを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,6 +5166,30 @@ or stored on equivalent media), your work is not complete.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170130T041336Z" creationid="hfukuchi" creationdate="20170130T041310Z">
         <seg>頒布前チェックリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-Distribution Verifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T021329Z" creationid="hfukuchi" creationdate="20170515T021329Z">
+        <seg>頒布前検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-Distribution Verifications phase outcome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022758Z" creationid="hfukuchi" creationdate="20170515T022758Z">
+        <seg>頒布前検証フェーズの結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-Distribution Verifications phase prerequisite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022504Z" creationid="hfukuchi" creationdate="20170515T022504Z">
+        <seg>頒布前検証フェーズの開始条件</seg>
       </tuv>
     </tu>
     <tu>
@@ -6008,6 +6168,15 @@ or license, which may or may not have incorporated open source in it
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source code packages (including modifications) have been verified to match the binary equivalent shipping in the product
+.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T021736Z" creationid="hfukuchi" creationdate="20170515T021736Z">
+        <seg>ソース コード パッケージ（変更を含む）は、製品として出荷されるバイナリと一致することが確認されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source code packages can be compiled and built on an external computer without errors.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170328T074636Z" creationid="hfukuchi" creationdate="20170130T073424Z">
@@ -6131,6 +6300,14 @@ or license, which may or may not have incorporated open source in it
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 10 .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024219Z" creationid="hfukuchi" creationdate="20170515T024219Z">
+        <seg>ステップ10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 2 .</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170428T075729Z" creationid="hfukuchi" creationdate="20170428T075729Z">
@@ -6175,6 +6352,22 @@ or license, which may or may not have incorporated open source in it
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170512T091928Z" creationid="hfukuchi" creationdate="20170512T091928Z">
         <seg>ステップ7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 8 .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T021320Z" creationid="hfukuchi" creationdate="20170515T021320Z">
+        <seg>ステップ8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 9 .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022920Z" creationid="hfukuchi" creationdate="20170515T022920Z">
+        <seg>ステップ9</seg>
       </tuv>
     </tu>
     <tu>
@@ -6789,6 +6982,14 @@ distribution checklist.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The goals of the pre-distribution verification are to ensure that:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T021610Z" creationid="hfukuchi" creationdate="20170515T021610Z">
+        <seg>頒布前検証の目的は、以下を確実にすることです：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goals of the source code distribution process and policy are to ensure that:</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170124T041146Z" creationid="hfukuchi" creationdate="20170124T041146Z">
@@ -6946,6 +7147,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170213T073305Z" creationid="hfukuchi" creationdate="20170213T073305Z">
         <seg>プロジェクト コードと違反状態にあるライセンスの名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next step in the compliance due diligence is to decide on the method and mode of distribution, type of packages to distribute, and mechanism of distribution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T021502Z" creationid="hfukuchi" creationdate="20170515T021502Z">
+        <seg>コンプライアンス精査の次のステップは、頒布の方法とモード、頒布するパッケージのタイプ、および頒布メカニズムを決定することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7197,6 +7406,22 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170124T042238Z" creationid="hfukuchi" creationdate="20170124T042238Z">
         <seg>頒布したソース コードは、頒布サイトに転送されるソフトウェアのバイナリ バージョンと照らし合わせて正しいバージョンであり、また、適切にラベル付けされている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source code is published on the website.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024823Z" creationid="hfukuchi" creationdate="20170515T024823Z">
+        <seg>ソース コードはウェブサイト上で公開される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The source code of the component in question is uploaded to the website for distribution (if that is the distribution method of choice).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024213Z" creationid="hfukuchi" creationdate="20170515T024213Z">
+        <seg>対象のコンポーネントのソース コードは、頒布用のウェブサイトにアップロードされる。（そういう頒布方法が選択された場合）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,6 +7911,14 @@ distribution checklist.</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170328T064241Z" creationid="hfukuchi" creationdate="20170124T044258Z">
         <seg>コミュニティとの相互関係が双方向であるのに対して、このことは一方向頒布と略式に考えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is not strictly a compliance issue; however, in some cases, an innocent comment about where the code was received can trigger a larger compliance question.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T022450Z" creationid="hfukuchi" creationdate="20170515T022450Z">
+        <seg>これは厳密にはコンプライアンスの課題ではないですが、しかしながら、ある場合には、コードが受け取られた場所に関する無邪気なコメントが大きなコンプライアンスに関する問い合わせを生むきっかけになる可能性があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8238,6 +8471,14 @@ based, magazines, newspapers, flyers, etc.) must display the acknowledgement.</s
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20170213T091458Z" creationid="hfukuchi" creationdate="20170213T091458Z">
         <seg>適用されているライセンスに基づく義務を理解していることを示し、いつまでにどのようにして義務を満足するかを伝える必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You receive verification that the source code is uploaded correctly and accessible for download, and that it corresponds to the same version that was approved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20170515T024958Z" creationid="hfukuchi" creationdate="20170515T024958Z">
+        <seg>ソース コードは正しくアップロードされ、ダウンロード可能で、承認されたものと同じバージョンに対応しているという確認結果を受けます。</seg>
       </tuv>
     </tu>
     <tu>
